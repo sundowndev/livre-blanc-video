@@ -1,0 +1,36 @@
+site_name: Papier blanc
+
+site_description: A Material Design theme for MkDocs
+site_author: Martin Donath
+site_url: https://squidfunk.github.io/mkdocs-material/
+
+# Repository
+# repo_name: sundowndev/dreamvo-whitepaper
+repo_url: https://github.com/sundowndev/dreamvo-whitepaper
+edit_uri: 'https://github.com/sundowndev/dreamvo-whitepaper/edit/master/docs/'
+
+# Copyright
+# copyright: 'Copyright &copy; 2019 Raphaël Cerveaux'
+
+theme:
+  name: 'material'
+  include_sidebar: false
+  palette:
+    primary: teal
+    accent: teal
+  font:
+    text: Nunito
+    code: Roboto Mono
+  # Plugins
+  plugins:
+    - search
+    - minify:
+        minify_html: true
+
+        # Page tree
+nav:
+  - 'Introduction': index.md
+  - "Le partage de contenu aujourd'hui": video-sharing-today.md
+  - 'Modèle économique': business-model.md
+  - 'En communauté': as-community.md
+  - 'Opportunités': oportinities.md
