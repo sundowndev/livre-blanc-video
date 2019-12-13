@@ -1,13 +1,12 @@
 site_name: Papier blanc
-
 site_description: Partager en toute liberté, demain - Livre blanc sur le partage de vidéo
 site_author: Raphaël Cerveaux
 site_url: https://sundowndev.github.io/livre-blanc-video/
 
 # Repository
 # repo_name: sundowndev/livre-blanc-video
-repo_url: https://github.com/sundowndev/livre-blanc-video
-edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
+# repo_url: https://github.com/sundowndev/livre-blanc-video
+# edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
 
 # Copyright
 # copyright: 'Copyright &copy; 2019 Raphaël Cerveaux'
@@ -27,7 +26,7 @@ theme:
     - minify:
         minify_html: true
 
-        # Page tree
+# Page tree
 nav:
   - 'Introduction': index.md
   - "Le partage de contenu aujourd'hui": video-sharing-today.md
