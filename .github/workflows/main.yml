@@ -1,0 +1,29 @@
+name: Documentation CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mkdocs mkdocs-material
+    - name: Deploy
+      run: |
+        git config --global user.name "${{ secrets.GITHUB_USER }}"
+        git config --global user.email "${{ secrets.GITHUB_EMAIL }}"
+        echo "machine github.com login ${{ secrets.GITHUB_USER }} password ${{ github.token }}" > ~/.netrc
+        mkdocs gh-deploy
