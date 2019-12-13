@@ -1,13 +1,13 @@
 site_name: Papier blanc
 
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_description: Partager en toute liberté, demain - Livre blanc sur le partage de vidéo
+site_author: Raphaël Cerveaux
+site_url: https://sundowndev.github.io/livre-blanc-video/
 
 # Repository
-# repo_name: sundowndev/dreamvo-whitepaper
-repo_url: https://github.com/sundowndev/dreamvo-whitepaper
-edit_uri: 'https://github.com/sundowndev/dreamvo-whitepaper/edit/master/docs/'
+# repo_name: sundowndev/livre-blanc-video
+repo_url: https://github.com/sundowndev/livre-blanc-video
+edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
 
 # Copyright
 # copyright: 'Copyright &copy; 2019 Raphaël Cerveaux'
