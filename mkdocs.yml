@@ -1,5 +1,5 @@
-site_name: Papier blanc
-site_description: Partager en toute liberté, demain - Livre blanc sur le partage de vidéo
+site_name: 'Le YouTube de demain est-il libre ?'
+site_description: 'Le YouTube de demain est-il libre ? Google continuera-t-il de dicter l'avenir des créateurs ? - Livre blanc sur le partage de vidéo'
 site_author: Raphaël Cerveaux
 site_url: https://sundowndev.github.io/livre-blanc-video/
 
@@ -20,7 +20,6 @@ theme:
   font:
     text: Nunito
     code: Roboto Mono
-  # Plugins
   plugins:
     - search
     - minify:
