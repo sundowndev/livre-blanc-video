@@ -9,14 +9,14 @@ site_url: https://sundowndev.github.io/livre-blanc-video/
 # edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
 
 # Copyright
-# copyright: 'Copyright &copy; 2019 Raphaël Cerveaux'
+copyright: 'Copyright &copy; 2020 Raphaël Cerveaux'
 
 theme:
   name: 'material'
   include_sidebar: false
   palette:
-    primary: teal
-    accent: teal
+    primary: white
+    accent: indigo
   font:
     text: Nunito
     code: Roboto Mono
@@ -27,8 +27,18 @@ theme:
 
 # Page tree
 nav:
-  - 'Introduction': index.md
-  - "Le partage de contenu aujourd'hui": video-sharing-today.md
-  - 'Modèle économique': business-model.md
-  - 'En communauté': as-community.md
-  - 'Opportunités': oportinities.md
+  - "Le partage de vidéo, aujourd'hui":
+    - 'Introduction': index.md
+    - "Comment ça fonctionne aujourd'hui ?": video-sharing-today.md
+    - 'Modèle économique': business-model.md
+    - 'En communauté': as-community.md
+    - 'Écologie': notfound.md
+    - 'Opportunités': opportunities.md
+    - 'Transparence, vie privée & éthique': notfound.md
+  - "Le partage de vidéo, demain":
+    - 'Les alternatives': notfound.md
+    - 'Modèle économique': notfound.md
+    - 'En communauté': notfound.md
+    - 'Écologie': notfound.md
+    - 'Opportunités': notfound.md
+    - 'Transparence, vie privée & éthique': notfound.md
