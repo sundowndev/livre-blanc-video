@@ -2,27 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://sundowndev.github.io/livre-blanc-video/</loc>
-     <lastmod>2020-02-06</lastmod>
+     <lastmod>2020-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://sundowndev.github.io/livre-blanc-video/video-sharing-today/</loc>
-     <lastmod>2020-02-06</lastmod>
+     <lastmod>2020-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://sundowndev.github.io/livre-blanc-video/business-model/</loc>
-     <lastmod>2020-02-06</lastmod>
+     <lastmod>2020-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://sundowndev.github.io/livre-blanc-video/as-community/</loc>
-     <lastmod>2020-02-06</lastmod>
+     <lastmod>2020-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sundowndev.github.io/livre-blanc-video/oportinities/</loc>
-     <lastmod>2020-02-06</lastmod>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sundowndev.github.io/livre-blanc-video/opportunities/</loc>
+     <lastmod>2020-02-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
 </urlset>
