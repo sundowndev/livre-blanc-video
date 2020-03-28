@@ -1,6 +1,16 @@
-# Le partage de contenu aujourd'hui
+# Le partage de vidéo aujourd'hui
 
->*Comment ça fonctionne aujourd'hui ?*
+Nous avons identifié les acteurs suivants :
+
+| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
+| ------------- |-------------|-----|-----|-----|
+| [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
+| [Vimeo](https://vimeo.com/)      | Non | Non | Publicité/abonnements |   Production |
+| [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
+| [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Alpha |
+| [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
+| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
+| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
 
 #### Avantages
 
@@ -26,18 +36,7 @@
 
 ### Les alternatives
 
-Lancer une plateforme de partage de vidéo n'est pas une chose facile. Premièrement il faut penser au coût technique, au type de stockage, ainsi qu'au modèle économique.
-
-
-| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
-| ------------- |-------------|-----|-----|-----|
-| [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Vimeo](https://vimeo.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
-| [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Alpha |
-| [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
-| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
-| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
+Lancer une plateforme de partage de vidéo n'est pas une chose facile. ...
 
 #### Vimeo
 
