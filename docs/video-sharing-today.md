@@ -1,30 +1,27 @@
 # Le partage de vidéo aujourd'hui
 
-Nous avons identifié les acteurs suivants :
+La vidéo en ligne est omniprésente dans notre utilisation quotidienne d'Internet. Nous savons qu'une vidéo permet de partager des idées, des opinions ou simplement divertir en y mettant la forme que l'on souhaite. Souvent inspirés des formats télévisés, la création de vidéo est aujourd'hui une activité qui s'est énormément démocratisée, grâce à Internet. YouTube, l'un des premiers acteurs à avoir ouvert la voie est aujourd'hui le leader du marché du partage de vidéo. Autant destiné aux particuliers qu'aux professionnels, YouTube propose de nombreuses fonctionnalités qui le rendent indétrônable.
 
-| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
-| ------------- |-------------|-----|-----|-----|
-| [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Vimeo](https://vimeo.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
-| [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Alpha |
-| [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
-| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
-| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
+![](./assets/screenshot_2.png)
+![](./assets/screenshot_3.png)
 
-#### Avantages
+Parmis les avantages concurrentiels que la plateforme de Google propose, nous retrouvons :
 
-- **Popularité**: Le traffic quotidien rend les plateformes très intéressantes pour la visiblité des créateurs.
+- **Popularité**: Le trafic quotidien rend les plateformes très intéressantes pour la visiblité des créateurs.
 - **Stabilité et performances**: La stabilité technique de ces services permet de garantir un confort non négligeable pour les utilisateurs, y compris pour les sociétés réclamant un service de qualité gratuitement.
 - **Proximité avec la communauté**: Ces services offrent généralement une bonne proximité avec les personnes qui nous suivent.
 - **Modèle économique simple**: Le modèle de la publicité en ligne est très simple à utiliser puisqu'il ne nécessite aucune action spécifique de la part de l'utilisateur.
+
+![](./assets/screenshot_4.png)
 
 #### Désavantages
 
 - **Manque de transparence et d'éthique:** il n'y a aucun moyen de savoir comment fonctionne les plateformes, leur façon de modérer le contenu et de traiter les données utilisateur. [Par le passé, une de ces sociétés nous a montré que les responsabilité légales n'étaient en réalité pas toujours respectées](https://www.developpez.com/actu/271109/Facebook-aurait-trompe-ses-utilisateurs-sur-la-facon-dont-il-utilisait-leurs-numeros-de-telephone-et-son-outil-de-reconnaissance-faciale-selon-la-FTC/).
 - **L'apprentissage machine rend la modération inefficace**: Les grandes sociétés se tournent de plus en plus vers l'apprentissage machine (dite Intélligence Artificielle) pour modérer le contenu automatiquement. Le résultat s'est montré peu glorieux: des vidéos bloquées par erreur, du contenu offensant non détecté, des mots censurés sans raison etc.
 - **Les annonceurs ont le pouvoir**: Puisque ce sont les annonceurs qui alimentent le modèle économique, leurs décisions ont de grands impacts sur la capacité de la rémunération. Lorsqu'un type de vidéo ne plait pas aux annonceurs, ils peuvent décider de ne pas afficher leur publicité sur ces dernières, les rendant démonétisées par la plateforme. Derrière ces démonétisations, peut également se cacher par exemple un intéret politique et une volonté de censure.
-- **La communauté est contrainte d'obéir**: ...
+- **L'algorithme de recommandation peine à trouver du contenu de qualité**: ...
+
+
 
 ### Ce qu'en disent les créateurs
 
@@ -36,7 +33,20 @@ Nous avons identifié les acteurs suivants :
 
 ### Les alternatives
 
-Lancer une plateforme de partage de vidéo n'est pas une chose facile. ...
+Lancer une plateforme de partage de vidéo n'est pas chose facile.
+
+Nous avons identifié les acteurs suivants :
+
+| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
+| ------------- |-------------|-----|-----|-----|
+| [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
+| [Twitch](https://www.twitch.tv/)      | Non | Non | Publicité/abonnements/dons |   Production |
+| [Vimeo](https://vimeo.com/)      | Non | Non | Publicité/abonnements |   Production |
+| [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
+| [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
+| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
+| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
+| [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Alpha |
 
 #### Vimeo
 
