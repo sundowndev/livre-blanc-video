@@ -15,7 +15,7 @@ theme:
   name: 'material'
   include_sidebar: false
   palette:
-    primary: white
+    primary: light blue
     accent: indigo
   font:
     text: Nunito
