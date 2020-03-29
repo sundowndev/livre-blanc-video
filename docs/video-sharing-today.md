@@ -2,8 +2,8 @@
 
 La vidéo en ligne est omniprésente dans notre utilisation quotidienne d'Internet. Nous savons qu'une vidéo permet de partager des idées, des opinions ou simplement divertir en y mettant la forme que l'on souhaite. Souvent inspirés des formats télévisés, la création de vidéo est aujourd'hui une activité qui s'est énormément démocratisée, grâce à Internet. YouTube, l'un des premiers acteurs à avoir ouvert la voie est aujourd'hui le leader du marché du partage de vidéo. Autant destiné aux particuliers qu'aux professionnels, YouTube propose de nombreuses fonctionnalités qui le rendent indétrônable.
 
-![](./assets/screenshot_2.png)
-![](./assets/screenshot_3.png)
+![](./assets/study_2.png)
+![](./assets/study_3.png)
 
 Parmis les avantages concurrentiels que la plateforme de Google propose, nous retrouvons :
 
@@ -12,7 +12,7 @@ Parmis les avantages concurrentiels que la plateforme de Google propose, nous re
 - **Proximité avec la communauté**: Ces services offrent généralement une bonne proximité avec les personnes qui nous suivent.
 - **Modèle économique simple**: Le modèle de la publicité en ligne est très simple à utiliser puisqu'il ne nécessite aucune action spécifique de la part de l'utilisateur.
 
-![](./assets/screenshot_4.png)
+![](./assets/study_4.png)
 
 #### Désavantages
 

@@ -10,7 +10,7 @@
 	<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 </head>
 <body>
-	<div id="canvas-holder" style="width:auto"></div>
+	<div id="canvas-holder" style="width:80%"></div>
 	<script>
 		function getRandomColor() {
 			const letters = '0123456789ABCDEF';
@@ -52,7 +52,7 @@
 						responsive: true,
 						title: {
 							display: true,
-							text: dataset,
+							text: [dataset],
 							fontSize: 24
 						},
 						legend: {
