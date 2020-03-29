@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func serve(router *gin.Engine) (*gin.Engine, *http.Server) {
+func serve(router *gin.Engine) *gin.Engine {
 	router.StaticFile("/", "./public")
 
 	router.GET("/api/dataset", func(c *gin.Context) {
@@ -30,20 +30,13 @@ func serve(router *gin.Engine) (*gin.Engine, *http.Server) {
 		})
 	})
 
-	srv := &http.Server{
-		Addr:    ":5000",
-		Handler: router,
-	}
-
-	return router, srv
+	return router
 }
 
 func main() {
 	router := gin.Default()
 
-	_, srv := serve(router)
+	serve(router)
 
-	if err := srv.ListenAndServe(); err != nil && err != http.ErrServerClosed {
-		log.Fatalf("listen: %s\n", err)
-	}
+	router.Run(":5000")
 }

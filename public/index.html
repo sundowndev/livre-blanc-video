@@ -10,8 +10,21 @@
 	<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 </head>
 <body>
-	<div id="canvas-holder" style="width:70%"></div>
+	<div id="canvas-holder" style="width:auto"></div>
 	<script>
+		function getRandomColor() {
+			const letters = '0123456789ABCDEF';
+			var color = '#';
+			for (var i = 0; i < 6; i++) {
+				color += letters[Math.floor(Math.random() * 16)];
+			}
+			return color;
+		}
+
+		function getColors () {
+			return Object.keys(window.chartColors).map(c => window.chartColors[c])
+		}
+
 		function generateCharts (datasetFromCsv) {
 			const charts = [];
 
@@ -24,18 +37,35 @@
 						labels: Object.keys(values),
 						datasets: [{
 							data: Object.values(values),
-							backgroundColor: [
-								window.chartColors.green,
-								window.chartColors.red,
-								window.chartColors.orange,
-								window.chartColors.blue,
-								window.chartColors.yellow,
-							],
+							backgroundColor: getColors(),
 							label: dataset
 						}]
 					},
 					options: {
-						responsive: true
+						animation: {
+							duration: 0 // general animation time
+						},
+						hover: {
+							animationDuration: 0 // duration of animations when hovering an item
+						},
+						responsiveAnimationDuration: 0, // animation duration after a resize
+						responsive: true,
+						title: {
+							display: true,
+							text: dataset,
+							fontSize: 24
+						},
+						legend: {
+							position: 'top'
+						},
+						layout: {
+							padding: {
+								left: 25,
+								right: 25,
+								top: 25,
+								bottom: 25
+							}
+						}
 					}
 				};
 
@@ -47,11 +77,21 @@
 
 		async function main() {
 			const { data } =  axios.get('/api/dataset').then(({ data }) => {
-				console.log(Papa.parse(data, { header: true }));
+				const parsed = Papa.parse(data, { header: true });
+				const datasetFromCsv = {};
 
-				const datasetFromCsv = {
-					'Vous êtes': ['Un homme', 'Une femme'],
-					'Combien de temps passez-vous à regarder des vidéos sur Internet ?': ['Très souvent, plus de 3 heures par jours', 'Très souvent, plus de 3 heures par jours', 'Souvent, 2 à 5 heures par semaines']
+				for (const record of parsed.data) {
+					for (const field of Object.keys(record)) {
+						if (record[field] == '') {
+							continue;
+						}
+
+						if (!datasetFromCsv[field]) {
+							datasetFromCsv[field] = [record[field]]
+						}
+
+						datasetFromCsv[field].push(record[field])
+					}
 				}
 
 				for (const chart of generateCharts(datasetFromCsv)) {
