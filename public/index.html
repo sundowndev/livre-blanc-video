@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>Charts</title>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
+	<script src="https://www.chartjs.org/samples/latest/utils.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+</head>
+<body>
+	<div id="canvas-holder" style="width:70%"></div>
+	<script>
+		function generateCharts (datasetFromCsv) {
+			const charts = [];
+
+			for (const dataset in datasetFromCsv) {
+				const values = _.countBy(datasetFromCsv[dataset])
+
+				const config = {
+					type: 'pie',
+					data: {
+						labels: Object.keys(values),
+						datasets: [{
+							data: Object.values(values),
+							backgroundColor: [
+								window.chartColors.green,
+								window.chartColors.red,
+								window.chartColors.orange,
+								window.chartColors.blue,
+								window.chartColors.yellow,
+							],
+							label: dataset
+						}]
+					},
+					options: {
+						responsive: true
+					}
+				};
+
+				charts.push({config})
+			}
+
+			return charts
+		}
+
+		async function main() {
+			const { data } =  axios.get('/api/dataset').then(({ data }) => {
+				console.log(Papa.parse(data, { header: true }));
+
+				const datasetFromCsv = {
+					'Vous êtes': ['Un homme', 'Une femme'],
+					'Combien de temps passez-vous à regarder des vidéos sur Internet ?': ['Très souvent, plus de 3 heures par jours', 'Très souvent, plus de 3 heures par jours', 'Souvent, 2 à 5 heures par semaines']
+				}
+
+				for (const chart of generateCharts(datasetFromCsv)) {
+					const canvasHolder = document.getElementById('canvas-holder');
+					const newNode = document.createElement("canvas");
+					
+					canvasHolder.appendChild(newNode);
+					window.myPie = new Chart(newNode, chart.config);
+				}
+			})
+		}
+
+		main()
+	</script>
+</body>
+
+</html>
