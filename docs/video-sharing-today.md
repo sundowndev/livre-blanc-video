@@ -1,6 +1,8 @@
-# Le partage de vidéo aujourd'hui
+# Analyse de l'existant
 
 La vidéo en ligne est omniprésente dans notre utilisation quotidienne d'Internet. Nous savons qu'une vidéo permet de partager des idées, des opinions ou simplement divertir en y mettant la forme que l'on souhaite. Souvent inspirés des formats télévisés, la création de vidéo est aujourd'hui une activité qui s'est énormément démocratisée, grâce à Internet. YouTube, l'un des premiers acteurs à avoir ouvert la voie est aujourd'hui le leader du marché du partage de vidéo. Autant destiné aux particuliers qu'aux professionnels, YouTube propose de nombreuses fonctionnalités qui le rendent indétrônable.
+
+#### Avantages
 
 ![](./assets/study_2.png)
 ![](./assets/study_3.png)
@@ -11,25 +13,39 @@ Parmis les avantages concurrentiels que la plateforme de Google propose, nous re
 - **Stabilité et performances**: La stabilité technique de ces services permet de garantir un confort non négligeable pour les utilisateurs, y compris pour les sociétés réclamant un service de qualité gratuitement.
 - **Proximité avec la communauté**: Ces services offrent généralement une bonne proximité avec les personnes qui nous suivent.
 - **Modèle économique simple**: Le modèle de la publicité en ligne est très simple à utiliser puisqu'il ne nécessite aucune action spécifique de la part de l'utilisateur.
+- **Fonctionnalités nombreuses**: Les fonctionnalités proposées sont très avantageuses et permettent aux créateurs de visualiser leurs données, leur revenus ou de créer davantage.
+- **Opportunités professionnelles**: Ces dernières années, les opportunités de se professionnaliser en tant que créateur de vidéo se sont multipliées. YouTube propose notamment de nombreux avantages pour fidéliser les utilisateurs réalisant le plus d'audience. Notamment avec le [YouTube Space](https://www.youtube.com/space/), un studio de tournage mis à disposition des créateurs.
 
 ![](./assets/study_4.png)
 
 #### Désavantages
 
-- **Manque de transparence et d'éthique:** il n'y a aucun moyen de savoir comment fonctionne les plateformes, leur façon de modérer le contenu et de traiter les données utilisateur. [Par le passé, une de ces sociétés nous a montré que les responsabilité légales n'étaient en réalité pas toujours respectées](https://www.developpez.com/actu/271109/Facebook-aurait-trompe-ses-utilisateurs-sur-la-facon-dont-il-utilisait-leurs-numeros-de-telephone-et-son-outil-de-reconnaissance-faciale-selon-la-FTC/).
-- **L'apprentissage machine rend la modération inefficace**: Les grandes sociétés se tournent de plus en plus vers l'apprentissage machine (dite Intélligence Artificielle) pour modérer le contenu automatiquement. Le résultat s'est montré peu glorieux: des vidéos bloquées par erreur, du contenu offensant non détecté, des mots censurés sans raison etc.
-- **Les annonceurs ont le pouvoir**: Puisque ce sont les annonceurs qui alimentent le modèle économique, leurs décisions ont de grands impacts sur la capacité de la rémunération. Lorsqu'un type de vidéo ne plait pas aux annonceurs, ils peuvent décider de ne pas afficher leur publicité sur ces dernières, les rendant démonétisées par la plateforme. Derrière ces démonétisations, peut également se cacher par exemple un intéret politique et une volonté de censure.
-- **L'algorithme de recommandation peine à trouver du contenu de qualité**: ...
-
-
+- **Manque de transparence et d'éthique:** Il n'y a aucun moyen de savoir comment fonctionne les plateformes, leur façon de modérer le contenu et de traiter les données utilisateur. [Par le passé, une de ces sociétés nous a montré que les responsabilité légales n'étaient en réalité pas toujours respectées](https://www.developpez.com/actu/271109/Facebook-aurait-trompe-ses-utilisateurs-sur-la-facon-dont-il-utilisait-leurs-numeros-de-telephone-et-son-outil-de-reconnaissance-faciale-selon-la-FTC/).
+- **L'apprentissage machine rend la modération inefficace**: Les grandes sociétés se tournent de plus en plus vers l'apprentissage machine (dite Intélligence Artificielle) pour modérer le contenu automatiquement. Le résultat s'est montré peu glorieux: des vidéos bloquées par erreur, du contenu offensant non détecté, des mots censurés sans raison etc. Par ailleurs, cs algorithmes ne sont pas transparents, ne permettant pas à l'utilisateur de voir comment ses préférences sont ajustées.
+- **Modèle économique instable**: Puisque ce sont les annonceurs qui alimentent le modèle économique, leurs décisions ont de grands impacts sur la capacité de la rémunération. Lorsqu'un type de vidéo ne plait pas aux annonceurs, ils peuvent décider de ne pas afficher leur publicité sur ces dernières, les rendant non monétisables par la plateforme.
+- **L'algorithme de recommandation peine à trouver du contenu de qualité**: YouTube pousse de moins en moins à la découverte de créateurs, produisant un vrai travail. La plateforme ne s'adapte pas aux centres d'intérêts de l'utilisateurs mais aux centres d'intérêts de tous en même temps.
+- **Manque de personnalisation**: L'utilisateur ne contrôle pas comment les vidéos lui sont recommandées, ni le contenu qu'il souhaite voir sur sa page d'accueil. La majorité des recommandations sont basées sur l'audience et l'engagement. Poussant notamment les créateurs à réaliser fréquemment du contenu qui pousse au clique.
 
 ### Ce qu'en disent les créateurs
 
->*Montrer que les créateurs s'expriment sur le sujet et veulent que ça change. Montrer que l'audience se sent de plus en plus concernée par le pb.*
+...
 
 ### Ce qu'en dit la presse
 
->*Montrer que la presse s'exprime sur le sujet.*
+Le 25 Novembre 2019, un article parait sur l'ADN à propos des créateurs subissants la pression de YouTube concernant la monétisation de leurs vidéos. Expliquant que ces derniers doivent avoir recours à l'aide de leur communauté pour continuer à vivre de cette activité.
+
+![](./assets/screenshot_2.png)
+<div align="center">
+    <a href="https://web.archive.org/web/20200229093359/https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/" target="_blank">Article de David-Julien Rahmil sur l'ADN</a>
+</div>
+
+>Imaginez que chaque matin vous alliez au travail sans vraiment savoir ce qu’on attend de vous. Vos horaires de bureau changent tout le temps et vous effectuez des tâches sans savoir si c’est ce que votre boss attend de vous. Par ailleurs, ce dernier ne vous paye jamais la même somme et change les termes de votre contrat sans vous dire vraiment quelles sont les règles précises. Tout ce que vous savez, c’est qu’il faut toujours produire plus, pour espérer lui plaire et assurer un salaire minimum pour vivre.
+
+----
+
+Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/), [Amixem](https://www.youtube.com/user/FPSCoopGameplays), un vidéaste français, raconte comment son métier a évolué.
+
+>Les règles du jeu ne sont plus du tout les mêmes. La première chose à prendre en compte, c’est bien évidemment l’algorithme de YouTube. On peut même dire qu’il a un pouvoir de vie ou de mort sur les youtubeurs. [...] Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
 
 ### Les alternatives
 

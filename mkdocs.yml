@@ -29,7 +29,7 @@ theme:
 nav:
   - "Le partage de vidéo, aujourd'hui":
     - 'Introduction': index.md
-    - "Comment ça fonctionne aujourd'hui ?": video-sharing-today.md
+    - "Analyse de l'existant": video-sharing-today.md
     - 'Modèle économique': business-model.md
     - 'En communauté': as-community.md
     - 'Écologie': notfound.md
