@@ -22,4 +22,14 @@ Des suites de cette démocratisation, plusieurs sociétés ont émergées, deven
 
 Ces géants du web ont néanmoins permis de faire avancer le web et son modèle économique. Le concept de réseau social ayant également beaucoup évolué, des alternatives ont vu le jour, apportant diverses solutions aux problèmatiques soulevées.
 
-Mais la publicité représente-t-elle encore aujourd'hui l'unique moyen fiable d'être rémunéré sur Internet ? Les géants du web ont-il un monopole sur ce marché ? Nous parlerons ici des problèmatiques rencontrées régulièrement par les utilisateurs ainsi que des solutions existantes et ce qu'elles permettent d'accomplir à terme.
+Mais la publicité représente-t-elle encore aujourd'hui l'unique moyen fiable d'être rémunéré sur Internet ? Les géants du web sont-ils réellement indétrônables ? Nous parlerons ici des problèmatiques rencontrées régulièrement par les utilisateurs ainsi que des solutions existantes et ce qu'elles permettent d'accomplir à terme.
+
+### Ressources
+
+- [YouTube affirme qu'il peut supprimer des comptes sur sa plateforme qui ne sont pas « viables commercialement »][1] [[archive][1_archive]]
+- [Résultats de notre étude sur le partage de vidéo][2] [[archive][2_archive]]
+
+[1]:https://www.developpez.com/actu/283999/YouTube-affirme-qu-il-peut-supprimer-des-comptes-sur-sa-plateforme-qui-ne-sont-pas-viables-commercialement-une-mesure-qui-inquiete/
+[1_archive]:https://web.archive.org/web/20191112074907/https://www.developpez.com/actu/283999/YouTube-affirme-qu-il-peut-supprimer-des-comptes-sur-sa-plateforme-qui-ne-sont-pas-viables-commercialement-une-mesure-qui-inquiete/
+[2]: https://github.com/sundowndev/livre-blanc-video/blob/master/data/responses.csv
+[2_archive]: https://raw.githubusercontent.com/sundowndev/livre-blanc-video/3e924ba686e5b351bfa2b744703955b6ca8c5aa4/data/responses.csv
