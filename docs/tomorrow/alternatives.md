@@ -2,7 +2,7 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. Les alter
 
 Nous avons identifié les acteurs suivants :
 
-| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
+| Plateforme        | Décentralisée           | Open source  | Source(s) de revenu  | Version  |
 | ------------- |-------------|-----|-----|-----|
 | [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
 | [Twitch](https://www.twitch.tv/)      | Non | Non | Publicité/abonnements/dons |   Production |

@@ -1,5 +1,3 @@
-# En communauté
-
 ### Gérer une chaîne à plusieurs
 
 ...
