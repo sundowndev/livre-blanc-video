@@ -12,17 +12,11 @@
 <body>
 	<div id="canvas-holder" style="width:80%"></div>
 	<script>
-		function getRandomColor() {
-			const letters = '0123456789ABCDEF';
-			var color = '#';
-			for (var i = 0; i < 6; i++) {
-				color += letters[Math.floor(Math.random() * 16)];
-			}
-			return color;
-		}
+		const colors = ['#36c','#dc3912','#f90']
 
 		function getColors () {
-			return Object.keys(window.chartColors).map(c => window.chartColors[c])
+			// return Object.keys(window.chartColors).map(c => window.chartColors[c])
+			return colors
 		}
 
 		function generateCharts (datasetFromCsv) {

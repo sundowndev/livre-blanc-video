@@ -27,18 +27,18 @@ theme:
 
 # Page tree
 nav:
+  - "Introduction": index.md
   - "Le partage de vidéo, aujourd'hui":
-    - 'Introduction': index.md
-    - "Analyse de l'existant": video-sharing-today.md
-    - 'Modèle économique': business-model.md
-    - 'En communauté': as-community.md
-    - 'Écologie': notfound.md
-    - 'Opportunités': opportunities.md
-    - 'Transparence, vie privée & éthique': notfound.md
+    - "Analyse de l'existant": today/analyzing-existing.md
+    - "Modèle économique": today/business-model.md
+    - "En communauté": today/community.md
+    - "Écologie": today/ecology.md
+    - "Opportunités": today/opportunities.md
+    - "Transparence, vie privée & éthique": today/privacy.md
   - "Le partage de vidéo, demain":
-    - 'Les alternatives': notfound.md
-    - 'Modèle économique': notfound.md
-    - 'En communauté': notfound.md
-    - 'Écologie': notfound.md
-    - 'Opportunités': notfound.md
-    - 'Transparence, vie privée & éthique': notfound.md
+    - "Les alternatives": tomorrow/alternatives.md
+    - "Modèle économique": tomorrow/business-model.md
+    - "En communauté": tomorrow/notfound.md
+    - "Écologie": tomorrow/notfound.md
+    - "Opportunités": tomorrow/notfound.md
+    - "Transparence, vie privée & éthique": tomorrow/notfound.md
