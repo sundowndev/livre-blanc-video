@@ -1,5 +1,3 @@
-# Analyse de l'existant
-
 La vidéo est omniprésente dans notre utilisation quotidienne d'Internet. Nous savons qu'une vidéo permet de partager des idées, des opinions ou simplement divertir en y mettant la forme que l'on souhaite. Souvent inspirés des formats télévisés, la création de vidéo est aujourd'hui une activité qui s'est énormément démocratisée, grâce à Internet. YouTube, l'un des premiers acteurs à avoir ouvert la voie est aujourd'hui le leader du marché du partage de vidéo. Autant destiné aux particuliers qu'aux professionnels, YouTube propose de nombreuses fonctionnalités qui le rendent indétrônable.
 
 #### Avantages
@@ -33,13 +31,6 @@ Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les s
 
 ### Ce qu'en disent les créateurs
 
-Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. De ce fait, à cause de polémiques comme [celle autour du YouTuber Logan Paul][8] par exemple, les annonceurs se sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisation et de réstreindre l'accès à celle-ci avec des critères plus précis.
-
-![](../assets/screenshot_3.png)
-[Tweet d'Amixem, vidéaste français][7] [[archive][7_archive]]
-
-----
-
 Le 12 Avril 2020, Le Radis Irradié, un vidéaste français explique s'être fait censuré par YouTube pour une vidéo postée 2 jours plus tôt. Selon YouTube, sa vidéo dénoncant une arnaque sur Internet, ne respectait pas les règles de la communauté.
 
 ![](../assets/screenshot_4.png)
@@ -50,28 +41,9 @@ Peu après ce tweet, une vidéo est publiée sur YouTube par Le Radis Irradié p
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/34-KiobBdDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Bien entendu, nombreux sont les créateurs qui sont satisfaits de YouTube et n'ont aucun problème avec la plateforme qui leur apporte confort et stabilité. La plateforme fait de nombreux efforts pour apporter de la nouveauté à travers de nouvelles fonctionnalités et plus grande transparence. Cependant depuis quelques années, les avis mécontents se sont multipliés et les problèmes de censure, monétisation, ou encore de modération sont chaque années plus nombreux.
+Bien entendu, nombreux sont les créateurs qui sont satisfaits de YouTube et n'ont aucun problème avec la plateforme qui leur apporte confort et stabilité. La plateforme fait de nombreux efforts pour apporter de la nouveauté à travers de nouvelles fonctionnalités et une plus grande transparence. Cependant depuis quelques années, les avis mécontents se sont multipliés et les problèmes de censure, monétisation, ou encore de modération sont chaque années plus nombreux.
 
 ### Ce qu'en dit la presse
-
-#### Monétisation
-
-Le 25 Novembre 2019, un article parait sur l'ADN à propos des créateurs subissants la pression de YouTube concernant la monétisation de leurs vidéos. Expliquant que ces derniers doivent avoir recours à l'aide de leur communauté pour continuer à vivre de cette activité.
-
-![](../assets/screenshot_2.png)
-<div align="center">
-    <a href="https://web.archive.org/web/20200229093359/https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/" target="_blank">Article de David-Julien Rahmil sur l'ADN</a>
-</div>
-
->Imaginez que chaque matin vous alliez au travail sans vraiment savoir ce qu’on attend de vous. Vos horaires de bureau changent tout le temps et vous effectuez des tâches sans savoir si c’est ce que votre boss attend de vous. Par ailleurs, ce dernier ne vous paye jamais la même somme et change les termes de votre contrat sans vous dire vraiment quelles sont les règles précises. Tout ce que vous savez, c’est qu’il faut toujours produire plus, pour espérer lui plaire et assurer un salaire minimum pour vivre.
-
-#### Évolution du métier de vidéaste
-
-Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/) sur l'ADN, [Amixem](https://www.youtube.com/user/FPSCoopGameplays), un vidéaste français, raconte comment son métier a évolué.
-
->Les règles du jeu ne sont plus du tout les mêmes. La première chose à prendre en compte, c’est bien évidemment l’algorithme de YouTube. On peut même dire qu’il a un pouvoir de vie ou de mort sur les youtubeurs.
-
->Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
 
 #### Censure et modération
 
@@ -83,7 +55,7 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 
 ----
 
-Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Bien que nous nous sômmes concentrés sur le négatif, il ne doit être négligé que YouTube apporte des ressources et un confort de visionnage suffisamment conséquent pour que ces vidéastes continuent d'utilise la plateforme de Google, malgré les difficultés qu'ils rencontrent.
+Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Bien que nous nous sômmes concentrés sur le négatif, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent.
 
 ----
 

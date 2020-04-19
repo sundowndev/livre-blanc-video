@@ -3,20 +3,12 @@ site_description: "Le YouTube de demain est-il libre ? Google continuera-t-il de
 site_author: Raphaël Cerveaux
 site_url: https://sundowndev.github.io/livre-blanc-video/
 
-# Repository
-# repo_name: sundowndev/livre-blanc-video
-# repo_url: https://github.com/sundowndev/livre-blanc-video
-# edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
-
-# Copyright
-copyright: 'Copyright &copy; 2020 Raphaël Cerveaux'
-
 theme:
   name: 'material'
   include_sidebar: false
   palette:
-    primary: light blue
-    accent: indigo
+    primary: blue
+    accent: blue
   font:
     text: Nunito
     code: Roboto Mono
@@ -24,13 +16,14 @@ theme:
     - search
     - minify:
         minify_html: true
+  features:
+    - tabs
 
-# Page tree
 nav:
   - "Introduction": index.md
   - "Le partage de vidéo, aujourd'hui":
-    - "Analyse de l'existant": today/analyzing-existing.md
     - "Modèle économique": today/business-model.md
+    - "YouTube, indétrônable ?": today/analyzing-existing.md
     - "En communauté": today/community.md
     - "Écologie": today/ecology.md
     - "Opportunités": today/opportunities.md
@@ -42,3 +35,20 @@ nav:
     - "Écologie": tomorrow/notfound.md
     - "Opportunités": tomorrow/notfound.md
     - "Transparence, vie privée & éthique": tomorrow/notfound.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/sundowndev/livre-blanc-video
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+# Repository
+# repo_name: sundowndev/livre-blanc-video
+# repo_url: https://github.com/sundowndev/livre-blanc-video
+# edit_uri: 'https://github.com/sundowndev/livre-blanc-video/edit/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 Raphaël Cerveaux'
