@@ -27,9 +27,13 @@ Parmis les avantages concurrentiels que la plateforme de Google propose, nous po
 - **L'algorithme de recommandation peine à trouver du contenu de qualité**: YouTube pousse de moins en moins à la découverte de créateurs, produisant un vrai travail. La plateforme ne s'adapte pas aux centres d'intérêts de l'utilisateurs mais aux centres d'intérêts de tous en même temps.
 - **Manque de personnalisation**: L'utilisateur ne contrôle pas comment les vidéos lui sont recommandées, ni le contenu qu'il souhaite voir sur sa page d'accueil. La majorité des recommandations sont basées sur l'audience et l'engagement. Poussant notamment les créateurs à réaliser fréquemment du contenu qui pousse au clique.
 
+Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les sondés, les avis des utilisateurs sur la plateforme qu'ils utilisent sont mitigés.
+
+![](../assets/study_5.png)
+
 ### Ce qu'en disent les créateurs
 
-Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. De ce fait, à cause de polémiques comme [celle autour du YouTuber Logan Paul][8] par exemple, les annonceurs ce sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisations et de réstreindre l'accès à celle-ci avec des critères plus précis.
+Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. De ce fait, à cause de polémiques comme [celle autour du YouTuber Logan Paul][8] par exemple, les annonceurs se sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisation et de réstreindre l'accès à celle-ci avec des critères plus précis.
 
 ![](../assets/screenshot_3.png)
 [Tweet d'Amixem, vidéaste français][7] [[archive][7_archive]]
@@ -46,7 +50,11 @@ Peu après ce tweet, une vidéo est publiée sur YouTube par Le Radis Irradié p
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/34-KiobBdDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Bien entendu, nombreux sont les créateurs qui sont satisfaits de YouTube et n'ont aucun problème avec la plateforme qui leur apporte confort et stabilité. La plateforme fait de nombreux efforts pour apporter de la nouveauté à travers de nouvelles fonctionnalités et plus grande transparence. Cependant depuis quelques années, les avis mécontents se sont multipliés et les problèmes de censure, monétisation, ou encore de modération sont chaque années plus nombreux.
+
 ### Ce qu'en dit la presse
+
+#### Monétisation
 
 Le 25 Novembre 2019, un article parait sur l'ADN à propos des créateurs subissants la pression de YouTube concernant la monétisation de leurs vidéos. Expliquant que ces derniers doivent avoir recours à l'aide de leur communauté pour continuer à vivre de cette activité.
 
@@ -57,11 +65,27 @@ Le 25 Novembre 2019, un article parait sur l'ADN à propos des créateurs subiss
 
 >Imaginez que chaque matin vous alliez au travail sans vraiment savoir ce qu’on attend de vous. Vos horaires de bureau changent tout le temps et vous effectuez des tâches sans savoir si c’est ce que votre boss attend de vous. Par ailleurs, ce dernier ne vous paye jamais la même somme et change les termes de votre contrat sans vous dire vraiment quelles sont les règles précises. Tout ce que vous savez, c’est qu’il faut toujours produire plus, pour espérer lui plaire et assurer un salaire minimum pour vivre.
 
-----
+#### Évolution du métier de vidéaste
 
 Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/) sur l'ADN, [Amixem](https://www.youtube.com/user/FPSCoopGameplays), un vidéaste français, raconte comment son métier a évolué.
 
->Les règles du jeu ne sont plus du tout les mêmes. La première chose à prendre en compte, c’est bien évidemment l’algorithme de YouTube. On peut même dire qu’il a un pouvoir de vie ou de mort sur les youtubeurs. [...] Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
+>Les règles du jeu ne sont plus du tout les mêmes. La première chose à prendre en compte, c’est bien évidemment l’algorithme de YouTube. On peut même dire qu’il a un pouvoir de vie ou de mort sur les youtubeurs.
+
+>Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
+
+#### Censure et modération
+
+*"Quand la censure de Youtube va trop loin"*, [cet article de  Marion Jaumotte sur RTBF][10] en Juin 2019, raconte comment des historiens on vu leurs vidéos supprimées à cause d'un mauvais ajustement dans l'algorithme de modération.
+
+>La modération faite par des algorithmes a démontré ses limites en censurant tout un tas de vidéos de youtubeurs et d’historiens.
+
+>Depuis que Youtube a durci sa politique relative aux contenus faisant l’apologie des propos haineux, de la discrimination ou de la ségrégation, certains youtubeurs et professeurs d’histoire tirent la sonnette d’alarme car leur contenu à caractère éducatif a également été supprimé…
+
+----
+
+Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Bien que nous nous sômmes concentrés sur le négatif, il ne doit être négligé que YouTube apporte des ressources et un confort de visionnage suffisamment conséquent pour que ces vidéastes continuent d'utilise la plateforme de Google, malgré les difficultés qu'ils rencontrent.
+
+----
 
 ### Ressources
 
@@ -71,6 +95,7 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 - [L’ADN : Comment les youtubeurs se font financer par leur communauté][4] [[archive][4_archive]]
 - [Interview du youtubeur Amixem : sur YouTube il faut plaire à l'algorithme][5] [[archive][5_archive]]
 - [Joueur du Grenier : “Youtube m'ennuie.”][6]
+- [Quand la censure de Youtube va trop loin][10] [[archive][10_archive]]
 
 [1]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 [1_archive]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
@@ -96,3 +121,6 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 
 [9]:https://twitter.com/LeRadisIrradie/status/1249248845172805632
 [9_archive]:https://web.archive.org/web/20200412085741/https:/twitter.com/LeRadisIrradie/status/1249248845172805632
+
+[10]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
+[10_archive]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454

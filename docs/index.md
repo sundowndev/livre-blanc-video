@@ -24,6 +24,8 @@ Ces géants du web ont néanmoins permis de faire avancer le web et son modèle 
 
 Mais la publicité représente-t-elle encore aujourd'hui l'unique moyen fiable d'être rémunéré sur Internet ? Les géants du web sont-ils réellement indétrônables ? Nous parlerons ici des problèmatiques rencontrées régulièrement par les utilisateurs ainsi que des solutions existantes et ce qu'elles permettent d'accomplir à terme.
 
+----
+
 ### Ressources
 
 - [YouTube affirme qu'il peut supprimer des comptes sur sa plateforme qui ne sont pas « viables commercialement »][1] [[archive][1_archive]]
