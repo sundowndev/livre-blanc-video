@@ -26,7 +26,7 @@ YouTube n'est pas le premier service à recourir au modèle économique payant. 
 
 ### Les limites de la publicité
 
-Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. De ce fait, à cause de polémiques comme [celle autour du YouTuber Logan Paul][8] par exemple, les annonceurs se sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisation et de réstreindre l'accès à celle-ci avec des critères plus précis.
+Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. De ce fait, à cause de polémiques comme [celles autour du YouTuber Logan Paul][8] par exemple, les annonceurs se sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisation et de réstreindre l'accès à celle-ci avec des critères plus précis.
 
 ![](../assets/screenshot_3.png)
 [Tweet d'Amixem, vidéaste français][7] [[archive][7_archive]]
