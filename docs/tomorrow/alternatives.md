@@ -36,3 +36,11 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 #### PeerTube
 
 PeerTube est un projet de plateforme de partage de vidéo libre, open source et décentralisé créée par Chocobozzz et sponsorisé principalement par Framasoft. Le principe est simple : créer un écosystème décentralisé constitué de plusieurs plateformes qui peuvent s’allier. PeerTube n’est pas une seule plateforme d’hébergement vidéo avec un unique groupe de règles : c’est un réseau de dizaines d’hébergeurs interconnectés, et chaque hébergeur est composé de personnes et d’administrateurs différents. Vous n’aimez pas certaines règles ? Vous êtes libre de rejoindre l’hébergeur de votre choix, ou mieux encore, être votre propre hébergeur avec vos propres règles ! En s’alliant avec d’autres instances de PeerTube, les vidéos sont partagées sur les instances alliées et à terme, la redondance pourra même être partagée.
+
+----
+
+### Ressources
+
+- [NewPipe, un client YouTube open source et intuitif pour Android][1]
+
+[1]: https://github.com/TeamNewPipe/NewPipe/
