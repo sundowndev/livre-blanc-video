@@ -18,9 +18,12 @@ theme:
         minify_html: true
   features:
     - tabs
+    - instant
 
 nav:
-  - "Introduction": index.md
+  - "Introduction":
+    - "Résumé": index.md
+    - "Contribuer": contribute.md
   - "Le partage de vidéo, aujourd'hui":
     - "Modèle économique": today/business-model.md
     - "YouTube, indétrônable ?": today/analyzing-existing.md
