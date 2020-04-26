@@ -20,9 +20,13 @@ YouTube n'est pas le premier service à recourir au modèle économique payant. 
 - Visionnage et écoute hors connexion
 - Visionnage en fond sur mobile
 
-#### Comment cette offre à-t-elle été perçue par la communauté ?
+L'arrivée de cette offre à notamment permis à YouTube d'augmenter le nombre de publicités pour inciter les utilisateurs à passer sur la version payante du site.
 
-...
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is the point of these annoying ads is to buy YouTube Red to get rid of em? Because it&#39;s making me wanna do it <a href="https://t.co/fd2E6JBXzz">pic.twitter.com/fd2E6JBXzz</a></p>&mdash; Ket (@NovaKet12) <a href="https://twitter.com/NovaKet12/status/1254033178257481734?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Traduction :
+
+>Est-ce que l'objectif de ces publicités intrusives est de me faire souscrire à YouTube Red pour les enlever ? Parce que ça m'en donne vraiment l'envie.
 
 ### Les limites de la publicité
 
@@ -46,9 +50,11 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 
 >Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
 
+Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. Ce pouvoir est en réalité mesuré par sa dépendance de la publicité.
+
 ### La souscription de chaîne payante
 
-Depuis peu, il est également possible s'abonner mensuellement à une chaîne pour environ 4,99€ par mois. Cet argent est en grande partie reversé au vidéaste qui propose des avantages en contre partie. Parmis ces avantages, figurent :
+Depuis peu, il est également possible de s'abonner mensuellement à une chaîne pour environ 4,99€ par mois. Cet argent est en grande partie reversé au vidéaste qui propose des avantages en contre partie. Parmis ces avantages, figurent :
 
 - Des badges exclusifs pour l'espace commentaire
 - Des emojis personnalisées pour l'espace commentaire
@@ -59,7 +65,7 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 ![](/assets/screenshot_6.png)
 
-...
+Ces abonnements permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support de sa communauté.
 
 ### Placement de produit
 
