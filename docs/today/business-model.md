@@ -10,7 +10,7 @@ YouTube a donc lancé des initiatives pour augmenter ses revenus. De multiples o
 
 C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. YouTube Red entend également s'attaquer au marché de la SVOD. Il promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
 
-<div align="center"><img src="/assets/yt-red.jpg" width="512px"></div>
+![](../assets/yt-red.jpg)
 
 YouTube n'est pas le premier service à recourir au modèle économique payant. Le modèle économique de Twitch se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 8,49€ par mois, l'offre YouTube Red propose aux spectateurs :
 
