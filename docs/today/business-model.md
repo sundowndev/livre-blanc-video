@@ -50,7 +50,7 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 
 >Le but pour YouTube est de garder les internautes le plus de temps possible sur la plateforme. Ils vont donc regarder le nombre de minutes visionnées pour chaque vidéo. Si les gens restent plus longtemps, alors ton contenu est davantage propulsé. Avec ce système, on ne peut pas vraiment tricher.
 
-Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. Ce pouvoir est en réalité mesuré par sa dépendance de la publicité.
+Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. En effet, la publicité représentant la majeur partie des revenus générés par la plateforme, les annonceurs ont acquis au fil des années une place importante dans l'écosystème et le fonctionnement de YouTube. Leurs choix peuvent donc s'avérés critiques pour la rémunération des vidéastes.
 
 ### La souscription de chaîne payante
 
@@ -65,11 +65,23 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 ![](/assets/screenshot_6.png)
 
-Ces abonnements permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support de sa communauté.
+De plus en plus adoptés par les créateurs, ces abonnements payants permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support direct de leur communauté. Un pas de plus vers leur indépendance financière, de plus en plus indispensable aujourd'hui face à la pression mise par la plateforme de Google.
 
 ### Placement de produit
 
-...
+Le placement de produit est une méthode de financement alternative impliquant généralement une marque et un créateur. Certaines marques font appelle à des créateurs qui touchent une audience qui les intéresses et leur propose d'effectuer un partenariat pour une ou plusieurs vidéos afin de promouvoir leur(s) produit(s) en l'échange d'une rémunération.
+
+>Il s'agit d'une voie importante de monétisation pour les youtubeurs et ceci d'autant plus depuis que les revenus publicitaires YouTube ont chuté. Le placement produit sur YouTube n'est pour l'instant pas encadré spécifiquement par la loi au même titre que le placement produit en télévision. Le cadre général de la Loi relative à la publicité impose cependant une mention du caractère commercial et payé de la présence du produit et l'ARPP a formulé des recommandations. Source: [Placement produit YouTube](https://www.definitions-marketing.com/definition/placement-produit-youtube/)
+
+YouTube émet également des recommandations relativement précises sur le sujet et a prévu une case de déclaration d'usage du placement produit qui lorsqu'elle est activée déclenche l'affichage d'une mention en surimpression de la vidéo.
+
+![](/assets/screenshot_7.png)
+
+Le format peut également présenter certaines limites ou dangers :
+
+- Perception des abonnés aux chaines
+- Effet de saturation
+- Réalité des vidéos vues
 
 ----
 
