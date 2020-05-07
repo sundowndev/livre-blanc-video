@@ -52,6 +52,11 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 
 Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. En effet, la publicité représentant la majeur partie des revenus générés par la plateforme, les annonceurs ont acquis au fil des années une place importante dans l'écosystème et le fonctionnement de YouTube. Leurs choix peuvent donc s'avérés critiques pour la rémunération des vidéastes.
 
+![](../assets/screenshot_9.png)
+<div align="center"><a href="https://www.reddit.com/r/youtube/comments/79p77w/can_we_discuss_how_awful_the_yt_trending_page_has/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
+
+>Une publicité YouTube de 81 minutes, non passable
+
 ### La souscription de chaîne payante
 
 Depuis peu, il est également possible de s'abonner mensuellement à une chaîne pour environ 4,99€ par mois. Cet argent est en grande partie reversé au vidéaste qui propose des avantages en contre partie. Parmis ces avantages, figurent :
