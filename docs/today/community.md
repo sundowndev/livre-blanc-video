@@ -25,7 +25,9 @@ Parmis les avantages concurrentiels que la plateforme de Google propose, nous po
 - **L'algorithme de recommandation peine à trouver du contenu de qualité**: YouTube pousse de moins en moins à la découverte de créateurs, produisant un vrai travail. La plateforme ne s'adapte pas aux centres d'intérêts de l'utilisateurs mais aux centres d'intérêts de tous en même temps.
 - **Manque de personnalisation**: L'utilisateur ne contrôle pas comment les vidéos lui sont recommandées, ni le contenu qu'il souhaite voir sur sa page d'accueil. La majorité des recommandations sont basées sur l'audience et l'engagement. Poussant notamment les créateurs à réaliser fréquemment du contenu qui pousse au clique.
 
-Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les sondés, les avis des utilisateurs sur la plateforme qu'ils utilisent sont mitigés.
+### Satisfaction générale
+
+Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les sondés, les avis des utilisateurs sur la plateforme qu'ils utilisent sont mitigés. Plus de la moitié des internautes ne se sentent pas pleinement satisfaits de la plateforme qu'ils utilisent au quotidien.
 
 ![](../assets/study_5.png)
 
@@ -66,8 +68,6 @@ Face à l'augmentation de la censure et de la pression mise par la plateforme co
 
 ### Ce qu'en dit la presse
 
-#### Censure et modération
-
 *"Quand la censure de Youtube va trop loin"*, [cet article de  Marion Jaumotte sur RTBF][10] en Juin 2019, raconte comment des historiens on vu leurs vidéos supprimées à cause d'un mauvais ajustement dans l'algorithme de modération.
 
 >La modération faite par des algorithmes a démontré ses limites en censurant tout un tas de vidéos de youtubeurs et d’historiens.
@@ -76,7 +76,7 @@ Face à l'augmentation de la censure et de la pression mise par la plateforme co
 
 ----
 
-Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Cependant, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent.
+Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Cependant, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent. La difficulté à trouver une alternative fiable y est aussi pour quelque chose.
 
 ### Les commentaires
 

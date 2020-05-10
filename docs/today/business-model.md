@@ -72,9 +72,22 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 De plus en plus adoptés par les créateurs, ces abonnements payants permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support direct de leur communauté. Un pas de plus vers leur indépendance financière, de plus en plus indispensable aujourd'hui face à la pression mise par la plateforme de Google.
 
+![](../assets/screenshot_10.png)
+
+En effet les spectateurs sont de plus en plus sensibles à l'idée de supporter financièrement leur vidéastes préférés. Selon notre étude, plus de deux tiers des spectateurs seraient prêts à accorder entre 1 et 5€ par mois pour supporter leurs vidéastes favoris. Contre moins d'un quart qui ne souhaitent pas donner.
+
+![](../assets/screenshot_11.png)
+
+Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnations, une majorité de spectateurs déclarent être prêts à les soutenir. Près de la moitié des sondés ont répondu "Peut être" ce qui laisse penser que cette aide est soumise à des conditions, en voici quelques exemples basés sur des chaînes existantes :
+
+- Contrepartie du créateur, contenu exclusif
+- Garantie de qualité, ponctualité, sérieux
+- Faisabilité du projet et ambition
+- Transparence, communication, proximité
+
 ### Placement de produit
 
-Le placement de produit est une méthode de financement alternative impliquant généralement une marque et un créateur. Certaines marques font appelle à des créateurs qui touchent une audience qui les intéresses et leur propose d'effectuer un partenariat pour une ou plusieurs vidéos afin de promouvoir leur(s) produit(s) en l'échange d'une rémunération.
+Le placement de produit est une méthode de financement alternative impliquant généralement une marque et un créateur. Certaines marques font appel à des créateurs qui touchent une audience qui les intéresses et leur propose d'effectuer un partenariat pour une ou plusieurs vidéos afin de promouvoir leur(s) produit(s) en l'échange d'une rémunération.
 
 >Il s'agit d'une voie importante de monétisation pour les youtubeurs et ceci d'autant plus depuis que les revenus publicitaires YouTube ont chuté. Le placement produit sur YouTube n'est pour l'instant pas encadré spécifiquement par la loi au même titre que le placement produit en télévision. Le cadre général de la Loi relative à la publicité impose cependant une mention du caractère commercial et payé de la présence du produit et l'ARPP a formulé des recommandations. Source: [Placement produit YouTube](https://www.definitions-marketing.com/definition/placement-produit-youtube/)
 
@@ -88,6 +101,8 @@ Le format peut également présenter certaines limites ou dangers :
 - Effet de saturation
 - Réalité des vidéos vues
 
+Malgré les abus de certaines marques et les conditions de partenariat souvent malhonnêtes, le placement de produit s'est imposé comme moyen de financement alternatif, fiable et lucratif pour les créateurs. Certaines chaînes ont même habitué leurs spectateurs à visualiser du contenu sponsorisé. Les spectateurs étant de plus en plus compréhensifs vis à vis de la situation financière des vidéastes, cette pratique s'est démocratisée et n'est plus mal vue par la communauté qui ne demande que de la transparence en échange.
+
 ----
 
 ### Ressources
@@ -95,6 +110,7 @@ Le format peut également présenter certaines limites ou dangers :
 - [Un an après... YouTube bouleverse son modèle économique][1] [[archive][1_archive]]
 - [YouTube: 1 Billion Viewers, No Profit][2] [[archive][2_archive]]
 - [Les Formats de Publicité sur Youtube][3] [[archive][3_archive]]
+- [Placement produit YouTube][4] [[archive][4_archive]]
 
 [1]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
 [1_archive]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
@@ -104,6 +120,9 @@ Le format peut également présenter certaines limites ou dangers :
 
 [3]:https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
 [3_archive]:https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
+
+[4]:https://www.definitions-marketing.com/definition/placement-produit-youtube/
+[4_archive]:https://www.definitions-marketing.com/definition/placement-produit-youtube/
 
 [7]:https://twitter.com/_Amixem/status/953612321707917312
 [7_archive]:https://web.archive.org/web/20200418145846/https://twitter.com/_Amixem/status/953612321707917312
