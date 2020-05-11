@@ -53,9 +53,7 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. En effet, la publicité représentant la majeur partie des revenus générés par la plateforme, les annonceurs ont acquis au fil des années une place importante dans l'écosystème et le fonctionnement de YouTube. Leurs choix peuvent donc s'avérés critiques pour la rémunération des vidéastes.
 
 ![](../assets/screenshot_9.png)
-<div align="center"><a href="https://www.reddit.com/r/youtube/comments/79p77w/can_we_discuss_how_awful_the_yt_trending_page_has/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
-
->Une publicité YouTube de 81 minutes, non passable
+<div align="center"><i>"Une publicité YouTube de 81 minutes, impossible à passer"</i> - <a href="https://www.reddit.com/r/youtube/comments/gckm4b/an_81_minute_long_nonskippable_ad_on_youtube/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
 
 ### La souscription de chaîne payante
 
@@ -74,16 +72,20 @@ De plus en plus adoptés par les créateurs, ces abonnements payants permettent 
 
 ![](../assets/screenshot_10.png)
 
-En effet les spectateurs sont de plus en plus sensibles à l'idée de supporter financièrement leur vidéastes préférés. Selon notre étude, plus de deux tiers des spectateurs seraient prêts à accorder entre 1 et 5€ par mois pour supporter leurs vidéastes favoris. Contre moins d'un quart qui ne souhaitent pas donner.
+En effet les internautes sont de plus en plus sensibles aux problèmes des vidéastes et donc plus ouverts à l'idée de supporter financièrement leur créateurs préférés. Selon notre étude, plus de deux tiers des spectateurs seraient prêts à accorder entre 1 et 5€ par mois pour supporter leurs vidéastes favoris. Contre moins d'un quart qui ne souhaitent pas donner.
 
 ![](../assets/screenshot_11.png)
 
-Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnations, une majorité de spectateurs déclarent être prêts à les soutenir. Près de la moitié des sondés ont répondu "Peut être" ce qui laisse penser que cette aide est soumise à des conditions, en voici quelques exemples basés sur des chaînes existantes :
+Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnations, une majorité de spectateurs déclarent être prêts à les soutenir. Près de la moitié des sondés se sont montrés hésitants face à la question, ce qui laisse penser que cette aide est soumise à des conditions, en voici quelques exemples basés sur des chaînes existantes :
 
 - Contrepartie du créateur, contenu exclusif
 - Garantie de qualité, ponctualité, sérieux
 - Faisabilité du projet et ambition
 - Transparence, communication, proximité
+
+![](../assets/screenshot_13.png)
+
+Nous pouvons voir que les internautes sont déjà habitués à donner, régulièrement ou non pour supporter leur créateurs favoris. Il est donc important pour eux d'avoir le choix de la méthode de paiement : donnation régulière, donnation unique.
 
 ### Placement de produit
 

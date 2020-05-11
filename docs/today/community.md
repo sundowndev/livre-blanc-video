@@ -31,15 +31,17 @@ Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les s
 
 ![](../assets/study_5.png)
 
-
-
 ### Gérer une chaîne à plusieurs
+
+Il est devenu très courant pour des vidéastes de se lancer dans un projet de chaîne à plusieurs.
 
 ...
 
 ### Proximité avec son auditoire
 
 ...
+
+![](../assets/study_6.png)
 
 ## Modération
 
@@ -79,6 +81,10 @@ Face à l'augmentation de la censure et de la pression mise par la plateforme co
 Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Cependant, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent. La difficulté à trouver une alternative fiable y est aussi pour quelque chose.
 
 ### Les commentaires
+
+Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet également de modérer les commentaires reçus, de les filtrer par ancienneté ou par type. Il est aussi possible de définir des modérateurs de commentaires pour qu'ils puissent s'en occuper à votre place.
+
+![](../assets/screenshot_12.gif)
 
 ...
 
