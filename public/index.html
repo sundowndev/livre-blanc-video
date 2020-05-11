@@ -1,105 +1,126 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-	<title>Charts</title>
-	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
-	<script src="https://www.chartjs.org/samples/latest/utils.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-	<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
-</head>
-<body>
-	<div id="canvas-holder" style="width:80%"></div>
-	<script>
-		const colors = ['#36c','#dc3912','#f90']
+  <head>
+    <meta charset="UTF-8" />
+    <title>Charts</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
+    <script src="https://www.chartjs.org/samples/latest/utils.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+  </head>
+  <body>
+    <div id="canvas-holder" style="width:80%"></div>
+    <script>
+      const colors = [
+        '#4a69bd',
+        '#e55039',
+        '#fa983a',
+        '#78e08f',
+        '#f368e0',
+        '#b71540',
+        '#2c3e50',
+        '#3498db',
+        '#8e44ad',
+        '#1abc9c',
+      ];
 
-		function getColors () {
-			// return Object.keys(window.chartColors).map(c => window.chartColors[c])
-			return colors
-		}
+      function getColors() {
+        // return Object.keys(window.chartColors).map(c => window.chartColors[c])
+        return colors;
+      }
 
-		function generateCharts (datasetFromCsv) {
-			const charts = [];
+      function generateCharts(datasetFromCsv) {
+        const charts = [];
 
-			for (const dataset in datasetFromCsv) {
-				const values = _.countBy(datasetFromCsv[dataset])
+        for (const dataset in datasetFromCsv) {
+          const values = _.countBy(datasetFromCsv[dataset]);
 
-				const config = {
-					type: 'pie',
-					data: {
-						labels: Object.keys(values),
-						datasets: [{
-							data: Object.values(values),
-							backgroundColor: getColors(),
-							label: dataset
-						}]
-					},
-					options: {
-						animation: {
-							duration: 0 // general animation time
-						},
-						hover: {
-							animationDuration: 0 // duration of animations when hovering an item
-						},
-						responsiveAnimationDuration: 0, // animation duration after a resize
-						responsive: true,
-						title: {
-							display: true,
-							text: [dataset],
-							fontSize: 24
-						},
-						legend: {
-							position: 'top'
-						},
-						layout: {
-							padding: {
-								left: 25,
-								right: 25,
-								top: 25,
-								bottom: 25
-							}
-						}
-					}
-				};
+          const config = {
+            type: 'pie',
+            data: {
+              labels: Object.keys(values),
+              datasets: [
+                {
+                  data: Object.values(values),
+                  backgroundColor: getColors(),
+                  label: dataset,
+                },
+              ],
+            },
+            options: {
+              scales: {
+                yAxes: [
+                  {
+                    ticks: {
+                      suggestedMin: 0,
+                    },
+                  },
+                ],
+              },
+              animation: {
+                duration: 0, // general animation time
+              },
+              hover: {
+                animationDuration: 0, // duration of animations when hovering an item
+              },
+              responsiveAnimationDuration: 0, // animation duration after a resize
+              responsive: true,
+              title: {
+                display: true,
+                text: [dataset],
+                fontSize: 24,
+              },
+              legend: {
+                position: 'top',
+              },
+              layout: {
+                padding: {
+                  left: 25,
+                  right: 25,
+                  top: 25,
+                  bottom: 25,
+                },
+              },
+            },
+          };
 
-				charts.push({config})
-			}
+          charts.push({ config });
+        }
 
-			return charts
-		}
+        return charts;
+      }
 
-		async function main() {
-			const { data } =  axios.get('/api/dataset').then(({ data }) => {
-				const parsed = Papa.parse(data, { header: true });
-				const datasetFromCsv = {};
+      async function main() {
+        const { data } = axios.get('/api/dataset').then(({ data }) => {
+          const parsed = Papa.parse(data, { header: true });
+          const datasetFromCsv = {};
 
-				for (const record of parsed.data) {
-					for (const field of Object.keys(record)) {
-						if (record[field] == '') {
-							continue;
-						}
+          for (const record of parsed.data) {
+            for (const field of Object.keys(record)) {
+              if (record[field] == '') {
+                continue;
+              }
 
-						if (!datasetFromCsv[field]) {
-							datasetFromCsv[field] = [record[field]]
-						}
+              if (!datasetFromCsv[field]) {
+                datasetFromCsv[field] = [record[field]];
+              }
 
-						datasetFromCsv[field].push(record[field])
-					}
-				}
+              datasetFromCsv[field].push(record[field]);
+            }
+          }
 
-				for (const chart of generateCharts(datasetFromCsv)) {
-					const canvasHolder = document.getElementById('canvas-holder');
-					const newNode = document.createElement("canvas");
-					
-					canvasHolder.appendChild(newNode);
-					window.myPie = new Chart(newNode, chart.config);
-				}
-			})
-		}
+          for (const chart of generateCharts(datasetFromCsv)) {
+            const canvasHolder = document.getElementById('canvas-holder');
+            const newNode = document.createElement('canvas');
 
-		main()
-	</script>
-</body>
+            canvasHolder.appendChild(newNode);
+            window.myPie = new Chart(newNode, chart.config);
+          }
+        });
+      }
 
+      main();
+    </script>
+  </body>
 </html>
