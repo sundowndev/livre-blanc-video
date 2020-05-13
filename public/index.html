@@ -12,6 +12,9 @@
   <body>
     <div id="canvas-holder" style="max-width: 45%;"></div>
     <script>
+      const chartType = 'bar';
+      const choiceDelimiter = '; ';
+      const mainColor = '#2094f3';
       const colors = [
         '#4a69bd',
         '#e55039',
@@ -31,14 +34,13 @@
 
       function generateCharts(datasetFromCsv) {
         const charts = [];
-        const chartType = 'bar';
 
         for (const dataset in datasetFromCsv) {
           const values = _.countBy(datasetFromCsv[dataset]);
           const formatedValues = {};
 
           for (const key of Object.keys(values)) {
-            const choices = key.split('; ');
+            const choices = key.split(choiceDelimiter);
 
             for (const choice of choices) {
               if (!formatedValues[choice]) {
@@ -57,7 +59,7 @@
                 {
                   data: Object.values(formatedValues),
                   backgroundColor: ['bar', 'line'].includes(chartType)
-                    ? '#2094f3'
+                    ? mainColor
                     : getColors(),
                   label: dataset,
                 },
@@ -67,11 +69,13 @@
               responsive: true,
               scales: {
                 yAxes: [
-                  // Disable for doughnut charts
+                  // Disable for doughnut & pie charts
                   {
                     ticks: {
                       suggestedMin: 0,
-                      suggestedMax: Object.values(formatedValues).reduce((i, k) => i + k) / 1.5,
+                      suggestedMax:
+                        Object.values(formatedValues).reduce((i, k) => i + k) /
+                        1.5,
                     },
                   },
                 ],
@@ -125,7 +129,7 @@
               }
 
               if (!datasetFromCsv[field]) {
-                datasetFromCsv[field] = [record[field]];
+                datasetFromCsv[field] = [];
               }
 
               datasetFromCsv[field].push(record[field]);
