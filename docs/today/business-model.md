@@ -66,7 +66,7 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 >Via des paiements mensuels, la souscription vous permet d'acheter des badges publics et des emoji, ainsi que d'accéder aux avantages ponctuellement offerts par les créateurs sur le site et l'application YouTube. Source: [Souscrire à une chaîne YouTube](https://support.google.com/youtube/answer/6304294?hl=fr)
 
-![](/assets/screenshot_6.png)
+![](../assets/screenshot_6.png)
 
 De plus en plus adoptés par les créateurs, ces abonnements payants permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support direct de leur communauté. Un pas de plus vers leur indépendance financière, de plus en plus indispensable aujourd'hui face à la pression mise par la plateforme de Google.
 
@@ -97,7 +97,7 @@ Le placement de produit est une méthode de financement alternative impliquant g
 
 YouTube émet également des recommandations relativement précises sur le sujet et a prévu une case de déclaration d'usage du placement produit qui lorsqu'elle est activée déclenche l'affichage d'une mention en surimpression de la vidéo.
 
-![](/assets/screenshot_7.png)
+![](../assets/screenshot_7.png)
 
 Le format peut également présenter certaines limites ou dangers :
 
