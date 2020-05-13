@@ -13,10 +13,6 @@ theme:
   font:
     text: Nunito
     code: Roboto Mono
-  plugins:
-    - search
-    - minify:
-        minify_html: true
   features:
     - tabs
     - instant
@@ -47,6 +43,11 @@ extra:
 markdown_extensions:
   - toc:
       permalink: true
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
 
 # Repository
 # repo_name: sundowndev/livre-blanc-video
