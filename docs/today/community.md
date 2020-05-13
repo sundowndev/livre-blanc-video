@@ -101,6 +101,7 @@ Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il
 - [Interview du youtubeur Amixem : sur YouTube il faut plaire à l'algorithme][5] [[archive][5_archive]]
 - [Joueur du Grenier : “Youtube m'ennuie.”][6]
 - [Quand la censure de Youtube va trop loin][10] [[archive][10_archive]]
+- [Vidéos complotistes : « YouTube a la capacité de modérer son contenu lorsqu’il en a la volonté politique »][11] [[archive][11_archive]]
 
 [1]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 [1_archive]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
@@ -129,3 +130,6 @@ Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il
 
 [10]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
 [10_archive]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
+
+[11]:https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html
+[11_archive]:https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html
