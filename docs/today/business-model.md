@@ -8,11 +8,11 @@ YouTube a donc lancé des initiatives pour augmenter ses revenus. De multiples o
 
 ### YouTube RED
 
-C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. YouTube Red entend également s'attaquer au marché de la SVOD. Il promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
+C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. Cette offre entend également s'attaquer au marché de la SVOD. La plateforme promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
 
 ![](../assets/yt-red.jpg)
 
-YouTube n'est pas le premier service à recourir au modèle économique payant. Le modèle économique de Twitch se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 8,49€ par mois, l'offre YouTube Red propose aux spectateurs :
+YouTube n'est pas le premier service à recourir au modèle économique payant. Par exemple, le modèle économique de Twitch se base sur les abonnements de chaîne. Les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 8,49€ par mois, l'offre YouTube Red propose aux spectateurs :
 
 - Des vidéos et musiques sans publicité
 - Accès à des programmes originaux
@@ -115,6 +115,7 @@ Malgré les abus de certaines marques et les conditions de partenariat souvent m
 - [YouTube: 1 Billion Viewers, No Profit][2] [[archive][2_archive]]
 - [Les Formats de Publicité sur Youtube][3] [[archive][3_archive]]
 - [Placement produit YouTube][4] [[archive][4_archive]]
+- [Noël, période la plus importante pour les youtubeurs et les instagrameurs][9] [[archive][9_archive]]
 
 [1]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
 [1_archive]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
@@ -132,3 +133,6 @@ Malgré les abus de certaines marques et les conditions de partenariat souvent m
 [7_archive]:https://web.archive.org/web/20200418145846/https://twitter.com/_Amixem/status/953612321707917312
 
 [8]:https://www.forbes.com/sites/natalierobehmed/2018/12/03/how-youtube-star-logan-paul-made-14-5-million-amid-scandal/#3ca134026b2d
+
+[9]:https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
+[9_archive]:https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
