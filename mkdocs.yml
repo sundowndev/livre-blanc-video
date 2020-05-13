@@ -5,7 +5,8 @@ site_url: https://sundowndev.github.io/livre-blanc-video/
 
 theme:
   name: 'material'
-  include_sidebar: false
+  icon:
+    logo: material/feather
   palette:
     primary: blue
     accent: blue

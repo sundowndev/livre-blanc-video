@@ -25,19 +25,23 @@ Parmis les avantages concurrentiels que la plateforme de Google propose, nous po
 - **L'algorithme de recommandation peine à trouver du contenu de qualité**: YouTube pousse de moins en moins à la découverte de créateurs, produisant un vrai travail. La plateforme ne s'adapte pas aux centres d'intérêts de l'utilisateurs mais aux centres d'intérêts de tous en même temps.
 - **Manque de personnalisation**: L'utilisateur ne contrôle pas comment les vidéos lui sont recommandées, ni le contenu qu'il souhaite voir sur sa page d'accueil. La majorité des recommandations sont basées sur l'audience et l'engagement. Poussant notamment les créateurs à réaliser fréquemment du contenu qui pousse au clique.
 
-Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les sondés, les avis des utilisateurs sur la plateforme qu'ils utilisent sont mitigés.
+### Satisfaction générale
+
+Sans se limiter à YouTube cette fois-ci, nous pouvons observer que parmis les sondés, les avis des utilisateurs sur la plateforme qu'ils utilisent sont mitigés. Plus de la moitié des internautes ne se sentent pas pleinement satisfaits de la plateforme qu'ils utilisent au quotidien.
 
 ![](../assets/study_5.png)
 
-
-
 ### Gérer une chaîne à plusieurs
+
+Il est devenu très courant pour des vidéastes de se lancer dans un projet de chaîne à plusieurs.
 
 ...
 
 ### Proximité avec son auditoire
 
 ...
+
+![](../assets/study_6.png)
 
 ## Modération
 
@@ -66,8 +70,6 @@ Face à l'augmentation de la censure et de la pression mise par la plateforme co
 
 ### Ce qu'en dit la presse
 
-#### Censure et modération
-
 *"Quand la censure de Youtube va trop loin"*, [cet article de  Marion Jaumotte sur RTBF][10] en Juin 2019, raconte comment des historiens on vu leurs vidéos supprimées à cause d'un mauvais ajustement dans l'algorithme de modération.
 
 >La modération faite par des algorithmes a démontré ses limites en censurant tout un tas de vidéos de youtubeurs et d’historiens.
@@ -76,9 +78,13 @@ Face à l'augmentation de la censure et de la pression mise par la plateforme co
 
 ----
 
-Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Cependant, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent.
+Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et beaucoup relayés via la presse et les réseaux sociaux. Cependant, il ne doit être négligé que YouTube apporte des ressources et une expérience utilisateur suffisamment bonne pour que ces vidéastes continuent d'utiliser la plateforme de Google, malgré les difficultés qu'ils rencontrent. La difficulté à trouver une alternative fiable y est aussi pour quelque chose.
 
 ### Les commentaires
+
+Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet également de modérer les commentaires reçus, de les filtrer par ancienneté ou par type. Il est aussi possible de définir des modérateurs de commentaires pour qu'ils puissent s'en occuper à votre place.
+
+![](../assets/screenshot_12.gif)
 
 ...
 
@@ -95,6 +101,7 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 - [Interview du youtubeur Amixem : sur YouTube il faut plaire à l'algorithme][5] [[archive][5_archive]]
 - [Joueur du Grenier : “Youtube m'ennuie.”][6]
 - [Quand la censure de Youtube va trop loin][10] [[archive][10_archive]]
+- [Vidéos complotistes : « YouTube a la capacité de modérer son contenu lorsqu’il en a la volonté politique »][11] [[archive][11_archive]]
 
 [1]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 [1_archive]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
@@ -123,3 +130,6 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 
 [10]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
 [10_archive]:https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
+
+[11]:https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html
+[11_archive]:https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html

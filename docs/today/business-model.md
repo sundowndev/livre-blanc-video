@@ -8,17 +8,17 @@ YouTube a donc lancé des initiatives pour augmenter ses revenus. De multiples o
 
 ### YouTube RED
 
-C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. YouTube Red entend également s'attaquer au marché de la SVOD. Il promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
+C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. Aussi appelée YouTube Premium, cette offre entend également s'attaquer au marché de la SVOD et du streaming musical. La plateforme promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
 
-![](../assets/yt-red.jpg)
-
-YouTube n'est pas le premier service à recourir au modèle économique payant. Le modèle économique de Twitch se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 8,49€ par mois, l'offre YouTube Red propose aux spectateurs :
+YouTube n'est pas le premier service à recourir au modèle économique payant. Par exemple, le modèle économique de Twitch se base sur les abonnements de chaîne. Les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 11,99€ par mois, l'offre YouTube Red propose aux spectateurs :
 
 - Des vidéos et musiques sans publicité
 - Accès à des programmes originaux
-- Un service de musique à la demande
-- Visionnage et écoute hors connexion
-- Visionnage en fond sur mobile
+- Un service de musique à la demande (YouTube Music)
+- Visionnage et écoute hors connexion sur mobile
+- Visionnage en arrière plan sur mobile
+
+![](../assets/screenshot_10.png)
 
 L'arrivée de cette offre à notamment permis à YouTube d'augmenter le nombre de publicités pour inciter les utilisateurs à passer sur la version payante du site.
 
@@ -53,9 +53,7 @@ Dans un [autre article paru le 16 Mai 2019](https://www.ladn.eu/media-mutants/tv
 Son témoignage indique que les annonceurs sont en réalité ceux qui décident de leur rémunération de par le pouvoir qu'ils ont sur les publicités affichées sur la plateforme. En effet, la publicité représentant la majeur partie des revenus générés par la plateforme, les annonceurs ont acquis au fil des années une place importante dans l'écosystème et le fonctionnement de YouTube. Leurs choix peuvent donc s'avérés critiques pour la rémunération des vidéastes.
 
 ![](../assets/screenshot_9.png)
-<div align="center"><a href="https://www.reddit.com/r/youtube/comments/79p77w/can_we_discuss_how_awful_the_yt_trending_page_has/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
-
->Une publicité YouTube de 81 minutes, non passable
+<div align="center"><i>"Une publicité YouTube de 81 minutes, impossible à passer"</i> - <a href="https://www.reddit.com/r/youtube/comments/gckm4b/an_81_minute_long_nonskippable_ad_on_youtube/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
 
 ### La souscription de chaîne payante
 
@@ -72,9 +70,28 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 De plus en plus adoptés par les créateurs, ces abonnements payants permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support direct de leur communauté. Un pas de plus vers leur indépendance financière, de plus en plus indispensable aujourd'hui face à la pression mise par la plateforme de Google.
 
+![](../assets/study_10.png)
+
+En effet les internautes sont de plus en plus sensibles aux problèmes des vidéastes et donc plus ouverts à l'idée de supporter financièrement leur créateurs préférés. Selon notre étude, plus de deux tiers des spectateurs seraient prêts à accorder entre 1 et 5€ par mois pour supporter leurs vidéastes favoris. Contre moins d'un quart qui ne souhaitent pas donner.
+
+![](../assets/study_11.png)
+
+Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnations, une majorité de spectateurs déclarent être prêts à les soutenir. Près de la moitié des sondés se sont montrés hésitants face à la question, ce qui laisse penser que cette aide est soumise à des conditions, en voici quelques exemples basés sur des chaînes existantes :
+
+- Contrepartie du créateur, contenu exclusif
+- Garantie de qualité, ponctualité, sérieux
+- Faisabilité du projet et ambition
+- Transparence, communication, proximité
+
+![](../assets/study_14.png)
+
+![](../assets/study_13.png)
+
+Nous pouvons voir que les internautes sont déjà habitués à donner, régulièrement ou non pour supporter leur créateurs favoris. Il est donc important pour eux d'avoir le choix de la méthode de paiement : donnation régulière, donnation unique.
+
 ### Placement de produit
 
-Le placement de produit est une méthode de financement alternative impliquant généralement une marque et un créateur. Certaines marques font appelle à des créateurs qui touchent une audience qui les intéresses et leur propose d'effectuer un partenariat pour une ou plusieurs vidéos afin de promouvoir leur(s) produit(s) en l'échange d'une rémunération.
+Le placement de produit est une méthode de financement alternative impliquant généralement une marque et un créateur. Certaines marques font appel à des créateurs qui touchent une audience qui les intéresses et leur propose d'effectuer un partenariat pour une ou plusieurs vidéos afin de promouvoir leur(s) produit(s) en l'échange d'une rémunération.
 
 >Il s'agit d'une voie importante de monétisation pour les youtubeurs et ceci d'autant plus depuis que les revenus publicitaires YouTube ont chuté. Le placement produit sur YouTube n'est pour l'instant pas encadré spécifiquement par la loi au même titre que le placement produit en télévision. Le cadre général de la Loi relative à la publicité impose cependant une mention du caractère commercial et payé de la présence du produit et l'ARPP a formulé des recommandations. Source: [Placement produit YouTube](https://www.definitions-marketing.com/definition/placement-produit-youtube/)
 
@@ -88,6 +105,8 @@ Le format peut également présenter certaines limites ou dangers :
 - Effet de saturation
 - Réalité des vidéos vues
 
+Malgré les abus de certaines marques et les conditions de partenariat souvent malhonnêtes, le placement de produit s'est imposé comme moyen de financement alternatif, fiable et lucratif pour les créateurs. Certaines chaînes ont même habitué leurs spectateurs à visualiser du contenu sponsorisé. Les spectateurs étant de plus en plus compréhensifs vis à vis de la situation financière des vidéastes, cette pratique s'est démocratisée et n'est plus mal vue par la communauté qui ne demande que de la transparence en échange.
+
 ----
 
 ### Ressources
@@ -95,6 +114,8 @@ Le format peut également présenter certaines limites ou dangers :
 - [Un an après... YouTube bouleverse son modèle économique][1] [[archive][1_archive]]
 - [YouTube: 1 Billion Viewers, No Profit][2] [[archive][2_archive]]
 - [Les Formats de Publicité sur Youtube][3] [[archive][3_archive]]
+- [Placement produit YouTube][4] [[archive][4_archive]]
+- [Noël, période la plus importante pour les youtubeurs et les instagrameurs][9] [[archive][9_archive]]
 
 [1]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
 [1_archive]:https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
@@ -105,7 +126,13 @@ Le format peut également présenter certaines limites ou dangers :
 [3]:https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
 [3_archive]:https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
 
+[4]:https://www.definitions-marketing.com/definition/placement-produit-youtube/
+[4_archive]:https://www.definitions-marketing.com/definition/placement-produit-youtube/
+
 [7]:https://twitter.com/_Amixem/status/953612321707917312
 [7_archive]:https://web.archive.org/web/20200418145846/https://twitter.com/_Amixem/status/953612321707917312
 
 [8]:https://www.forbes.com/sites/natalierobehmed/2018/12/03/how-youtube-star-logan-paul-made-14-5-million-amid-scandal/#3ca134026b2d
+
+[9]:https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
+[9_archive]:https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
