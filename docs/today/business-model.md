@@ -70,11 +70,11 @@ Et d'autres avantages propres au vidéaste comme l'accès à un groupe de discus
 
 De plus en plus adoptés par les créateurs, ces abonnements payants permettent aux créateurs de dépendre de moins en moins de la publicité et d'assurer une rémunération plus stable grâce au support direct de leur communauté. Un pas de plus vers leur indépendance financière, de plus en plus indispensable aujourd'hui face à la pression mise par la plateforme de Google.
 
-![](../assets/screenshot_10.png)
+![](../assets/study_10.png)
 
 En effet les internautes sont de plus en plus sensibles aux problèmes des vidéastes et donc plus ouverts à l'idée de supporter financièrement leur créateurs préférés. Selon notre étude, plus de deux tiers des spectateurs seraient prêts à accorder entre 1 et 5€ par mois pour supporter leurs vidéastes favoris. Contre moins d'un quart qui ne souhaitent pas donner.
 
-![](../assets/screenshot_11.png)
+![](../assets/study_11.png)
 
 Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnations, une majorité de spectateurs déclarent être prêts à les soutenir. Près de la moitié des sondés se sont montrés hésitants face à la question, ce qui laisse penser que cette aide est soumise à des conditions, en voici quelques exemples basés sur des chaînes existantes :
 
@@ -83,7 +83,9 @@ Quant à l'idée d'aider les créateurs qui dépendent entièrement des donnatio
 - Faisabilité du projet et ambition
 - Transparence, communication, proximité
 
-![](../assets/screenshot_13.png)
+![](../assets/study_14.png)
+
+![](../assets/study_13.png)
 
 Nous pouvons voir que les internautes sont déjà habitués à donner, régulièrement ou non pour supporter leur créateurs favoris. Il est donc important pour eux d'avoir le choix de la méthode de paiement : donnation régulière, donnation unique.
 

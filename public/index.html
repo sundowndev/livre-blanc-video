@@ -10,7 +10,7 @@
     <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
   </head>
   <body>
-    <div id="canvas-holder" style="width:80%"></div>
+    <div id="canvas-holder" style="max-width: 45%;"></div>
     <script>
       const colors = [
         '#4a69bd',
@@ -26,31 +26,33 @@
       ];
 
       function getColors() {
-        // return Object.keys(window.chartColors).map(c => window.chartColors[c])
         return colors;
       }
 
       function generateCharts(datasetFromCsv) {
         const charts = [];
+        const chartType = 'bar';
 
         for (const dataset in datasetFromCsv) {
           const values = _.countBy(datasetFromCsv[dataset]);
 
           const config = {
-            type: 'pie',
+            type: chartType,
             data: {
               labels: Object.keys(values),
               datasets: [
                 {
                   data: Object.values(values),
-                  backgroundColor: getColors(),
+                  backgroundColor: ['bar', 'line'].includes(chartType) ? '#2094f3' : getColors(),
                   label: dataset,
                 },
               ],
             },
             options: {
+              responsive: true,
               scales: {
                 yAxes: [
+                  // Disable for doughnut charts
                   {
                     ticks: {
                       suggestedMin: 0,
@@ -69,9 +71,13 @@
               title: {
                 display: true,
                 text: [dataset],
-                fontSize: 24,
+                fontSize: 20,
               },
               legend: {
+                display: ['bar', 'line'].includes(chartType) ? false : true,
+                labels: {
+                  fontSize: 16,
+                },
                 position: 'top',
               },
               layout: {
@@ -91,7 +97,7 @@
         return charts;
       }
 
-      async function main() {
+      function main() {
         const { data } = axios.get('/api/dataset').then(({ data }) => {
           const parsed = Papa.parse(data, { header: true });
           const datasetFromCsv = {};
