@@ -8,17 +8,17 @@ YouTube a donc lancé des initiatives pour augmenter ses revenus. De multiples o
 
 ### YouTube RED
 
-C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. Cette offre entend également s'attaquer au marché de la SVOD. La plateforme promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
+C'est donc à la fois pour entrer dans cette logique et pour monter en gamme que YouTube a annoncé, le 21 octobre 2015, le lancement d'une offre payante, baptisée YouTube Red. Aussi appelée YouTube Premium, cette offre entend également s'attaquer au marché de la SVOD et du streaming musical. La plateforme promet ainsi des séries originales, à l'instar de House of Cards ou Orange Is the New Black qui ont contribué au succès de Netflix.
 
-![](../assets/yt-red.jpg)
-
-YouTube n'est pas le premier service à recourir au modèle économique payant. Par exemple, le modèle économique de Twitch se base sur les abonnements de chaîne. Les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 8,49€ par mois, l'offre YouTube Red propose aux spectateurs :
+YouTube n'est pas le premier service à recourir au modèle économique payant. Par exemple, le modèle économique de Twitch se base sur les abonnements de chaîne. Les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois. Pour 11,99€ par mois, l'offre YouTube Red propose aux spectateurs :
 
 - Des vidéos et musiques sans publicité
 - Accès à des programmes originaux
-- Un service de musique à la demande
-- Visionnage et écoute hors connexion
-- Visionnage en fond sur mobile
+- Un service de musique à la demande (YouTube Music)
+- Visionnage et écoute hors connexion sur mobile
+- Visionnage en arrière plan sur mobile
+
+![](../assets/screenshot_10.png)
 
 L'arrivée de cette offre à notamment permis à YouTube d'augmenter le nombre de publicités pour inciter les utilisateurs à passer sur la version payante du site.
 
