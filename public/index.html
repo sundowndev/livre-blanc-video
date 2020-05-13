@@ -35,15 +35,30 @@
 
         for (const dataset in datasetFromCsv) {
           const values = _.countBy(datasetFromCsv[dataset]);
+          const formatedValues = {};
+
+          for (const key of Object.keys(values)) {
+            const choices = key.split('; ');
+
+            for (const choice of choices) {
+              if (!formatedValues[choice]) {
+                formatedValues[choice] = 0;
+              }
+
+              formatedValues[choice] += values[key];
+            }
+          }
 
           const config = {
             type: chartType,
             data: {
-              labels: Object.keys(values),
+              labels: Object.keys(formatedValues),
               datasets: [
                 {
-                  data: Object.values(values),
-                  backgroundColor: ['bar', 'line'].includes(chartType) ? '#2094f3' : getColors(),
+                  data: Object.values(formatedValues),
+                  backgroundColor: ['bar', 'line'].includes(chartType)
+                    ? '#2094f3'
+                    : getColors(),
                   label: dataset,
                 },
               ],
@@ -56,6 +71,7 @@
                   {
                     ticks: {
                       suggestedMin: 0,
+                      suggestedMax: Object.values(formatedValues).reduce((i, k) => i + k) / 1.5,
                     },
                   },
                 ],
@@ -70,7 +86,7 @@
               responsive: true,
               title: {
                 display: true,
-                text: [dataset],
+                text: dataset,
                 fontSize: 20,
               },
               legend: {
