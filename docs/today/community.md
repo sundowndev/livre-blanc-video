@@ -95,7 +95,7 @@ Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il
 ### Ressources
 
 - [L’ADN : “YouTube burn-out : les vidéastes cherchent des portes de sortie”][1] [[archive][1_archive]]
-- [Les echos “La grogne des youtubeurs face aux nouvelles règles de monétisation”][2] [[archive][3_archive]]
+- [Les echos “La grogne des youtubeurs face aux nouvelles règles de monétisation”][2] [[archive][2_archive]]
 - [Numerama : dans la peau des petits vidéastes qui n’ont jamais percé sur YouTube][3] [[archive][3_archive]]
 - [L’ADN : Comment les youtubeurs se font financer par leur communauté][4] [[archive][4_archive]]
 - [Interview du youtubeur Amixem : sur YouTube il faut plaire à l'algorithme][5] [[archive][5_archive]]
@@ -119,9 +119,6 @@ Parmis les ressources mise à disposition, nous retrouvons le YouTube Studio. Il
 [5_archive]:https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/
 
 [6]:https://www.youtube.com/watch?v=dZOpobOhOEc
-
-[7]:https://twitter.com/_Amixem/status/953612321707917312
-[7_archive]:https://web.archive.org/web/20200418145846/https://twitter.com/_Amixem/status/953612321707917312
 
 [8]:https://www.forbes.com/sites/natalierobehmed/2018/12/03/how-youtube-star-logan-paul-made-14-5-million-amid-scandal/#3ca134026b2d
 

@@ -1,6 +1,6 @@
 Lancer une plateforme de partage de vidéo n'est pas une chose facile. Les alternatives décentralisées actuelles fonctionnent pour la plupart que sur des systèmes encore expérimentaux. Il y a très peu d'alternatives qui prétendent avoir réellement fait de la recherche concernant l'expérience utilisateur. Or, c'est la principale raison qui profitera à la migration du grand public vers une nouvelle plateforme.
 
-Nous avons identifié les acteurs suivants :
+Nous avons identifié les principaux acteurs suivants :
 
 | Plateforme        | Décentralisée           | Open source  | Source(s) de revenu  | Version  |
 | ------------- |-------------|-----|-----|-----|
