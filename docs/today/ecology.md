@@ -14,7 +14,7 @@ Selon [cet article de l'OBS][3] en 2015 :
 
 > Regarder 10 minutes de vidéo de chats représente 1g de CO2. Google tente de temporiser en expliquant que "l'utilisation continue de YouTube pendant trois semaines demande à peu près autant d'énergie qu'il n'en faut pour faire une lessive en machine". Seulement, chaque jour, des "centaines de millions d'heures de vidéos" sont regardées sur YouTube, soit plus de 600 tonnes de CO2 émis chaque jour, ou plus de 219 millions de tonnes de CO2 chaque année.
 
-Face à ses enjeux de taille, Google a depuis mis en place de nombreuses mesures pour réduire son impact environnemental. C'est même devenu un argument marketing puisque Google Cloud Platform, le service cloud de Google affiche désormais sur son site web n'utiliser que de l'énergie 100% renouvelable.
+Face à cet enjeu de taille, Google a depuis mis en place des mesures pour tenter de réduire son impact écologique. C'est même devenu un de leurs arguments marketing puisque Google Cloud Platform, le service cloud de Google [affiche désormais sur son site web][7] n'utiliser que de l'énergie 100% renouvelable.
 
 ![screenshot](../assets/screenshot_14.png)
 
@@ -25,6 +25,7 @@ Face à ses enjeux de taille, Google a depuis mis en place de nombreuses mesures
 -   [Les vidéos de chat polluent plus que les avions][3] \[[archive][3_archive]]
 -   [Interview de Cécile Frot-Coutaz: les dessous de YouTube][4]
 -   [Rapport environnemental de Google en 2018][5] \[[archive][5_archive]]
+-   [Benchmark environnemental de Greenpeace (2017)][6] \[[archive][6_archive]]
 
 [1]: https://www.francemusique.fr/emissions/musique-connectee/reduire-son-empreinte-ecologique-sur-youtube-72015
 
@@ -43,3 +44,9 @@ Face à ses enjeux de taille, Google a depuis mis en place de nombreuses mesures
 [5]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
 
 [5_archive]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
+
+[6]: https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
+
+[6_archive]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
+
+[7]: https://cloud.google.com/sustainability
