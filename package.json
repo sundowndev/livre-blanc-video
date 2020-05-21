@@ -1,10 +1,8 @@
 {
   "name": "livre-blanc-video",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:sundowndev/livre-blanc-video.git",
   "author": "sundowndev <raphael@crvx.fr>",
-  "license": "MIT",
   "private": true,
   "dependencies": {
     "remark-cli": "8.0.0",
