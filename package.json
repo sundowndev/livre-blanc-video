@@ -1,0 +1,25 @@
+{
+  "name": "livre-blanc-video",
+  "version": "1.0.0",
+  "repository": "git@github.com:sundowndev/livre-blanc-video.git",
+  "author": "sundowndev <raphael@crvx.fr>",
+  "private": true,
+  "dependencies": {
+    "remark-cli": "8.0.0",
+    "remark-lint": "7.0.0",
+    "remark-lint-emphasis-marker": "2.0.0",
+    "remark-lint-strong-marker": "2.0.0",
+    "remark-preset-lint-recommended": "4.0.0"
+  },
+  "scripts": {
+    "lint": "remark . -f",
+    "lint:fix": "remark . -o -f"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      "remark-lint-emphasis-marker",
+      "remark-lint-strong-marker"
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 Lancer une plateforme de partage de vidéo n'est pas une chose facile. Les alternatives décentralisées actuelles fonctionnent pour la plupart que sur des systèmes encore expérimentaux. Il y a très peu d'alternatives qui prétendent avoir réellement fait de la recherche concernant l'expérience utilisateur. Or, c'est la principale raison qui profitera à la migration du grand public vers une nouvelle plateforme.
 
-Nous avons identifié les acteurs suivants :
+Nous avons identifié les principaux acteurs suivants :
 
-| Plateforme        | Décentralisée           | Open source  | Source(s) de revenu  | Version  |
-| ------------- |-------------|-----|-----|-----|
-| [YouTube](https://www.youtube.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Twitch](https://www.twitch.tv/)      | Non | Non | Publicité/abonnements/dons |   Production |
-| [Vimeo](https://vimeo.com/)      | Non | Non | Publicité/abonnements |   Production |
-| [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
-| [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
-| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
-| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
-| [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Alpha |
+| Plateforme                                  | Décentralisée    | Open source | Source(s) de revenu        | Version    |
+| ------------------------------------------- | ---------------- | ----------- | -------------------------- | ---------- |
+| [YouTube](https://www.youtube.com/)         | Non              | Non         | Publicité/abonnements      | Production |
+| [Twitch](https://www.twitch.tv/)            | Non              | Non         | Publicité/abonnements/dons | Production |
+| [Vimeo](https://vimeo.com/)                 | Non              | Non         | Publicité/abonnements      | Production |
+| [Dailymotion](https://www.dailymotion.com/) | Non              | Non         | Publicité                  | Production |
+| [D.Tube](https://d.tube/)                   | Oui (blockchain) | Oui         | Crypto/dons                | Bêta       |
+| [PeerTube](https://joinpeertube.org/)       | Oui (P2P)        | Oui         | Aucune                     | Bêta       |
+| [PopChest](https://popchest.com/)           | Oui (P2P)        | Oui         | Crypto/dons                | Bêta       |
+| [View.ly](https://view.ly/)                 | Oui (blockchain) | Oui         | Crypto/dons                | Alpha      |
 
 #### Vimeo
 
@@ -37,10 +37,10 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 PeerTube est un projet de plateforme de partage de vidéo libre, open source et décentralisé créée par Chocobozzz et sponsorisé principalement par Framasoft. Le principe est simple : créer un écosystème décentralisé constitué de plusieurs plateformes qui peuvent s’allier. PeerTube n’est pas une seule plateforme d’hébergement vidéo avec un unique groupe de règles : c’est un réseau de dizaines d’hébergeurs interconnectés, et chaque hébergeur est composé de personnes et d’administrateurs différents. Vous n’aimez pas certaines règles ? Vous êtes libre de rejoindre l’hébergeur de votre choix, ou mieux encore, être votre propre hébergeur avec vos propres règles ! En s’alliant avec d’autres instances de PeerTube, les vidéos sont partagées sur les instances alliées et à terme, la redondance pourra même être partagée.
 
-----
+* * *
 
 ### Ressources
 
-- [NewPipe, un client YouTube open source et intuitif pour Android][1]
+-   [NewPipe, un client YouTube open source et intuitif pour Android][1]
 
 [1]: https://github.com/TeamNewPipe/NewPipe/
