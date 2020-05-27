@@ -30,7 +30,7 @@ Ces efforts ont notamment été récompensés par une reconnaissance de Greenpea
 
 ![screenshot](../assets/screenshot_18.png)
 
->Heureusement, Greenpeace a fait une évaluation comparative de chaque fournisseur de cloud et a attribué à Google une note de A en 2016.
+> Heureusement, Greenpeace a fait une évaluation comparative de chaque fournisseur de cloud et a attribué à Google une note de A en 2016.
 
 ## Des choix de conception à l'origine d'un impact environnemental en augmentation
 
@@ -64,7 +64,7 @@ Les chercheurs à l’origine de l’étude affirment également que YouTube cac
 
 D'autres facteurs techniques participent à rendre l'impact écologique de YouTube important, notamment la publicité, les scripts de traçage utilisateur, qui consomment beaucoup de bande passante. Enfin, les chercheurs suggèrent qu'une conception davantage orientée vers l'éco-responsabilité permettrait de réduire l'impact écologique des applications web. Avec des pages web plus légères, moins d'informations envoyées inutilement, et moins de collecte de données.
 
-### Ressources
+## Ressources
 
 -   [Réduire son empreinte écologique sur Youtube][1] \[[archive][1_archive]]
 -   [Etude : comment faire pour rendre YouTube moins polluant ?][2] \[[archive][2_archive]]
@@ -95,7 +95,7 @@ D'autres facteurs techniques participent à rendre l'impact écologique de YouTu
 
 [6]: https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
 
-[6_archive]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
+[6_archive]: https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
 
 [7]: https://cloud.google.com/sustainability
 
