@@ -41,15 +41,28 @@ Ces fonctionnalités pourtant simples, permettent aux créateurs d'avoir une act
 
 ![](../assets/screenshot_22.png)
 
-### Proximité avec son auditoire
+### Proximité avec son audience
 
 Notre étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes de 18 à 35 ans. Ceci peut notamment s'expliquer par la très grande variété de contenu présente sur la plateforme de Google et Internet de façon générale.
 
 ![](../assets/study_1.png)
 
-Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris.
+Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans ([Japan Expo](#), [Paris Games Week](#), [Toulouse Game Show](#)...), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilises, non seulement comme un moyen de découvrir de différentes cultures (animation, jeux vidéo, animes, dessin, ...), mais aussi comme lieu de rencontre pour créer et échanger.
 
 ![](../assets/study_6.png)
+
+Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre](#) ou [le stand up](#). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
+
+![](../assets/screenshot_24.png)
+
+Le duo **Mcfly et Carlito** qui rend visite à quelques uns de leurs abonnés pour leur livrer des cadeaux :
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1PiAic9vFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+![](../assets/screenshot_23.png)
+
+>intéractions, sondages, live stream...
 
 ## Modération
 
