@@ -47,11 +47,13 @@ Notre étude à permis de constater que la consommation de vidéo en ligne prend
 
 ![](../assets/study_1.png)
 
-Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans ([Japan Expo](#), [Paris Games Week](#), [Toulouse Game Show](#)...), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilises, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
+Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (*Japan Expo, Paris Games Week, Toulouse Game Show...*), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
+
+Aux États-Unis à lieu chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands.
 
 ![](../assets/study_6.png)
 
-Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre](#) ou [le stand up](#). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
+Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre, le cinéma ou encore le stand up](https://www.youtube.com/watch?v=TyY_AZMVkrE). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
 
 ![](../assets/screenshot_24.png)
 
@@ -64,9 +66,9 @@ Le duo **Mcfly et Carlito** qui rend visite à quelques uns de leurs abonnés po
 
 Mais en dehors des réseaux sociaux, les créateurs ont de nombreux moyens à disposition pour intéragir avec leur audience. Par exemple, de plus en plus de créateurs de vidéos se lancent dans la diffusion en direct. Cela permet d'avoir les réactions des spectateurs en temps réel et de discuter sans pour autant être en contact avec eux physiquement. Sur YouTube, cela fait des années que cette fonctionnalité est disponible. Concernant les vidéos, les commentaires et les sondages sont aussi deux moyens efficaces de donner la parole à son audience.
 
->*screen sondage youtube
+![](../assets/screenshot_25.png)
 
-Depuis quelques années, un format de vidéo initialement utilisé dans les jeux vidéos a fait son fait surface sur le web : les vidéos intéractives. Un format également expérimenté par des grands producteurs comme [Netflix](https://www.netflix.com/fr/) avec leur film intéractif [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch). Les vidéos intéractives ont également pris place sur YouTube. En voici un exemple avec le court métrage intéractif du vidéaste et comédien Ludovik :
+Depuis quelques années, un format de vidéo initialement utilisé dans les jeux vidéos a refait surface sur le web : les vidéos intéractives. Un format également expérimenté par des grands producteurs comme [Netflix](https://www.netflix.com/fr/) avec leur film intéractif [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch). Les vidéos intéractives ont également pris place sur YouTube. En voici un exemple avec le court métrage intéractif du vidéaste et comédien Ludovik :
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3ewiTIcLiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
