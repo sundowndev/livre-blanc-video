@@ -27,9 +27,9 @@ Parmis les avantages concurrentiels de la plateforme de Google, nous avons ident
 
 ### Gérer une chaîne à plusieurs
 
-Il est devenu très courant pour des vidéastes de se lancer dans un projet de chaîne à plusieurs, a tel point que YouTube a dû y consacrer une fonctionnalité pour faciliter ce procéder. En effet, il est possible d'ajouter des utilisateurs en tant que _manager_ sur une chaîne YouTube. Ces managers pourront ensuite gérer la chaîne ainsi qu'accèder aux différentes données et paramètres de celle-ci.
+Il est devenu très courant pour des vidéastes de se lancer dans un projet de chaîne à plusieurs, a tel point que YouTube a dû y consacrer une fonctionnalité pour faciliter ce procédé. En effet, il est possible d'ajouter des utilisateurs en tant que _manager_ sur une chaîne YouTube. Ces managers pourront ensuite gérer la chaîne ainsi qu'accèder aux différentes données et paramètres de celle-ci.
 
-Au fil des années, le contenu des chaînes s'est structuré de plus en plus et les créateurs désireux de partager du contenu différent ou de s'adonner à d'autres types de vidéo ont parfois dû créer des chaîne secondaires. Il est également possible pour un même utilisateur de créer plusieurs chaînes différentes.
+Au fil des années, le contenu des chaînes s'est structuré de plus en plus et les créateurs désireux de partager du contenu différent ou de s'adonner à d'autres types de vidéo ont parfois dû créer des chaîne secondaires. Il est donc possible pour un même utilisateur de créer plusieurs chaînes différentes.
 
 ![](../assets/screenshot_19.png)
 
@@ -41,28 +41,37 @@ Ces fonctionnalités pourtant simples, permettent aux créateurs d'avoir une act
 
 ![](../assets/screenshot_22.png)
 
-### Proximité avec son audience
+### Proximité et intéractions avec son audience
 
 Notre étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes de 18 à 35 ans. Ceci peut notamment s'expliquer par la très grande variété de contenu présente sur la plateforme de Google et Internet de façon générale.
 
 ![](../assets/study_1.png)
 
-Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans ([Japan Expo](#), [Paris Games Week](#), [Toulouse Game Show](#)...), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilises, non seulement comme un moyen de découvrir de différentes cultures (animation, jeux vidéo, animes, dessin, ...), mais aussi comme lieu de rencontre pour créer et échanger.
+Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (*Japan Expo, Paris Games Week, Toulouse Game Show...*), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
+
+Aux États-Unis à lieu chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands.
 
 ![](../assets/study_6.png)
 
-Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre](#) ou [le stand up](#). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
+Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre, le cinéma ou encore le stand up](https://www.youtube.com/watch?v=TyY_AZMVkrE). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
 
 ![](../assets/screenshot_24.png)
 
-Le duo **Mcfly et Carlito** qui rend visite à quelques uns de leurs abonnés pour leur livrer des cadeaux :
+Le duo **Mcfly et Carlito** qui rend visite à quelques uns de leurs abonnés pour leur offrir des objets :
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1PiAic9vFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ![](../assets/screenshot_23.png)
 
->intéractions, sondages, live stream...
+Mais en dehors des réseaux sociaux, les créateurs ont de nombreux moyens à disposition pour intéragir avec leur audience. Par exemple, de plus en plus de créateurs de vidéos se lancent dans la diffusion en direct. Cela permet d'avoir les réactions des spectateurs en temps réel et de discuter sans pour autant être en contact avec eux physiquement. Sur YouTube, cela fait des années que cette fonctionnalité est disponible. Concernant les vidéos, les commentaires et les sondages sont aussi deux moyens efficaces de donner la parole à son audience.
+
+![](../assets/screenshot_25.png)
+
+Depuis quelques années, un format de vidéo initialement utilisé dans les jeux vidéos a refait surface sur le web : les vidéos intéractives. Un format également expérimenté par des grands producteurs comme [Netflix](https://www.netflix.com/fr/) avec leur film intéractif [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch). Les vidéos intéractives ont également pris place sur YouTube. En voici un exemple avec le court métrage intéractif du vidéaste et comédien Ludovik :
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3ewiTIcLiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Modération
 
@@ -104,7 +113,7 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 
 ### Les commentaires
 
-Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet également de modérer les commentaires reçus, de les filtrer par ancienneté ou par type. Il est aussi possible de définir des modérateurs de commentaires pour qu'ils puissent s'en occuper à votre place. La section commentaire peuvent être désactivés sur des vidéos précises, choisies au préalable par le créateur.
+Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet également de modérer les commentaires reçus, de les filtrer par ancienneté ou par type. Il est aussi possible de définir des modérateurs de commentaires pour qu'ils puissent s'en occuper à votre place. La section commentaire peut être désactivée sur des vidéos précises, choisies au préalable par le créateur.
 
 ![](../assets/screenshot_12.gif)
 
