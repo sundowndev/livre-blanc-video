@@ -111,7 +111,7 @@ Malgré les abus de certaines marques et les conditions de partenariat souvent m
 
 * * *
 
-### Ressources
+## Ressources
 
 -   [Un an après... YouTube bouleverse son modèle économique][1] \[[archive][1_archive]]
 -   [YouTube: 1 Billion Viewers, No Profit][2] \[[archive][2_archive]]
