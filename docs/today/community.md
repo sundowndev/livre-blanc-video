@@ -35,7 +35,7 @@ Au fil des années, le contenu des chaînes s'est structuré de plus en plus et 
 
 ![](../assets/screenshot_21.png)
 
-Ces fonctionnalités pourtant simples, permettent aux créateurs d'avoir une activité variée sur la plateforme, et de ne pas limiter leur contenu qu'à une seule chaîne. Ces dernières ne représentent donc, de manière générale, plus des chaînes personnelles mais un programme avec un format bien particulier et une audience qui lui est propre.
+Ces fonctionnalités pourtant simples, permettent aux créateurs d'avoir une activité variée sur la plateforme, et de ne pas limiter leur contenu qu'à une seule chaîne. Les chaînes ne représentent donc, de manière générale, non plus des chaînes personnelles mais un programme avec un format bien particulier et une audience qui lui est propre.
 
 ![](../assets/screenshot_20.png)
 
@@ -47,12 +47,12 @@ Notre étude à permis de constater que la consommation de vidéo en ligne prend
 
 ![](../assets/study_1.png)
 
-Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (*Japan Expo, Paris Games Week, Toulouse Game Show...*), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
+Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (_Japan Expo, Paris Games Week, Toulouse Game Show..._), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
 
 Aux États-Unis à lieu notamment chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands ou conférences.
 
 ![](../assets/vidcon_1.jpeg)
-*Crédit photo: [Kongres Magazine](https://kongres-magazine.eu/2018/02/vidcon-worlds-largest-online-video-conference-set-return-melbourne/)*
+_Crédit photo: [Kongres Magazine](https://kongres-magazine.eu/2018/02/vidcon-worlds-largest-online-video-conference-set-return-melbourne/)_
 
 ![](../assets/study_6.png)
 
@@ -71,7 +71,7 @@ Mais en dehors des réseaux sociaux, les créateurs ont de nombreux moyens à di
 
 ![](../assets/screenshot_25.png)
 
-----
+* * *
 
 Depuis quelques années, un format de vidéo initialement utilisé dans les jeux vidéos a refait surface sur le web : les vidéos intéractives. Un format également expérimenté par des grands producteurs comme [Netflix](https://www.netflix.com/fr/) avec leur film intéractif [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch). Les vidéos intéractives ont également pris place sur YouTube. En voici un exemple avec le court métrage intéractif du vidéaste et comédien Ludovik :
 
