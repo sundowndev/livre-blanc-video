@@ -49,7 +49,10 @@ Notre étude à permis de constater que la consommation de vidéo en ligne prend
 
 Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (*Japan Expo, Paris Games Week, Toulouse Game Show...*), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
 
-Aux États-Unis à lieu chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands.
+Aux États-Unis à lieu notamment chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands ou conférences.
+
+![](../assets/vidcon_1.jpeg)
+*Crédit photo: [Kongres Magazine](https://kongres-magazine.eu/2018/02/vidcon-worlds-largest-online-video-conference-set-return-melbourne/)*
 
 ![](../assets/study_6.png)
 
@@ -68,10 +71,14 @@ Mais en dehors des réseaux sociaux, les créateurs ont de nombreux moyens à di
 
 ![](../assets/screenshot_25.png)
 
+----
+
 Depuis quelques années, un format de vidéo initialement utilisé dans les jeux vidéos a refait surface sur le web : les vidéos intéractives. Un format également expérimenté par des grands producteurs comme [Netflix](https://www.netflix.com/fr/) avec leur film intéractif [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror%3A_Bandersnatch). Les vidéos intéractives ont également pris place sur YouTube. En voici un exemple avec le court métrage intéractif du vidéaste et comédien Ludovik :
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3ewiTIcLiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Ce type de vidéo constitue une façon supplémentaire de créer de l'intéraction avec son audience, à travers du contenu en ligne, et notamment des vidéos qui jusqu'ici demandaient à l'utilisateur de rester passif.
 
 ## Modération
 
@@ -113,7 +120,7 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 
 ### Les commentaires
 
-Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet également de modérer les commentaires reçus, de les filtrer par ancienneté ou par type. Il est aussi possible de définir des modérateurs de commentaires pour qu'ils puissent s'en occuper à votre place. La section commentaire peut être désactivée sur des vidéos précises, choisies au préalable par le créateur.
+Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet notamment de modérer les commentaires que le créateur reçoit, de les filtrer par ancienneté ou par type. Il est aussi possible de déléguer la modération des commentaires à d'autres utilisateurs pour qu'ils puissent s'en occuper à votre place. La section commentaire peut être désactivée sur des vidéos précises, choisies au préalable par le créateur.
 
 ![](../assets/screenshot_12.gif)
 
