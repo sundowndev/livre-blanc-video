@@ -2,13 +2,13 @@
 
 ### Le modèle "payer pour créer"
 
->vimeo
+> vimeo
 
 ...
 
 ### La cryptomonnaie, une alternative viable ?
 
->dtube, popchest, viewly
+> dtube, popchest, viewly
 
 ![](../assets/study_16.png)
 ![](../assets/study_18.png)
@@ -18,12 +18,14 @@
 
 ### Le financement participatif
 
->utip, tipeee, ...
+> utip, tipeee, ...
 
 ![](../assets/study_14.png)
 ![](../assets/study_15.png)
 
 ...
+
+----
 
 ### Ressources
 
