@@ -28,7 +28,7 @@ En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Twitch).
 
 #### Vimeo
 
-Lancée en novembre 2004, Vimeo est une plateforme de partage de vidéo Américaine. Vimeo est une des rares plateformes à proposer des offres payantes à ses utilisateurs, notamment pour pouvoir ajouter davantage de vidéo. Afin de développer une forte communauté de créateurs de films amateurs, Vimeo surveille le contenu déposé par ses utilisateurs et n'autorise pas les vidéos à caractère trop commercial ou marketing, les enregistrements de jeux, la pornographie ou tout autre contenu non créé par les utilisateurs. Les conditions d'utilisation stipulent que celui qui met en ligne la vidéo soit aussi le créateur de cette vidéo. Par ailleurs, la plateforme organise chaque année le *Vimeo Festival Award*, un festival destiné aux créateurs de vidéo.
+Lancée en novembre 2004, Vimeo est une plateforme de partage de vidéo Américaine. Vimeo est une des rares plateformes à proposer des offres payantes à ses utilisateurs, notamment pour pouvoir ajouter davantage de vidéo. Afin de développer une forte communauté de créateurs de films amateurs, Vimeo surveille le contenu déposé par ses utilisateurs et n'autorise pas les vidéos à caractère trop commercial ou marketing, les enregistrements de jeux, la pornographie ou tout autre contenu non créé par les utilisateurs. Les conditions d'utilisation stipulent que celui qui met en ligne la vidéo soit aussi le créateur de cette vidéo. Par ailleurs, la plateforme organise chaque année le _Vimeo Festival Award_, un festival destiné aux créateurs de vidéo.
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Vimeo).
 
