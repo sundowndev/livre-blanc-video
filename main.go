@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func serve(router *gin.Engine) *gin.Engine {
+func registerRoutes(router *gin.Engine) *gin.Engine {
 	router.StaticFile("/", "./public")
 
 	router.GET("/api/dataset", func(c *gin.Context) {
@@ -36,7 +36,7 @@ func serve(router *gin.Engine) *gin.Engine {
 func main() {
 	router := gin.Default()
 
-	serve(router)
+	registerRoutes(router)
 
 	router.Run(":5000")
 }
