@@ -12,7 +12,7 @@
   <body>
     <div id="canvas-holder" style="max-width: 45%;"></div>
     <script>
-      const chartType = 'bar';
+      const chartType = 'line';
       const choiceDelimiter = '; ';
       const mainColor = '#2094f3';
       const colors = [
@@ -68,17 +68,7 @@
             options: {
               responsive: true,
               scales: {
-                yAxes: [
-                  // Disable for doughnut & pie charts
-                  {
-                    ticks: {
-                      suggestedMin: 0,
-                      suggestedMax:
-                        Object.values(formatedValues).reduce((i, k) => i + k) /
-                        1.5,
-                    },
-                  },
-                ],
+                yAxes: [],
               },
               animation: {
                 duration: 0, // general animation time
@@ -110,6 +100,17 @@
               },
             },
           };
+
+          // Disable Y axis for doughnut & pie charts
+          if (['bar', 'line'].includes(chartType)) {
+            config.options.scales.yAxes.push({
+              ticks: {
+                suggestedMin: 0,
+                suggestedMax:
+                  Object.values(formatedValues).reduce((i, k) => i + k) / 1.5,
+              },
+            });
+          }
 
           charts.push({ config });
         }
