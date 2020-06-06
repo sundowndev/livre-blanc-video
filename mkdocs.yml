@@ -15,7 +15,7 @@ theme:
     code: Roboto Mono
   features:
     - tabs
-    - instant
+    # - instant
 
 nav:
   - "Introduction":
