@@ -56,13 +56,13 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 #### Pop Network
 
-Pop Network est un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. Son ambition est de créer un écosystème de plateformes basé sur BitTorrent, un protocol de partage de fichier décentralisé, et de la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés.
+Pop Network est un projet visant à créer un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. L'écosystème est basé sur BitTorrent, un protocol de partage de fichier décentralisé, et sur la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés.
 
 [![screenshot](../assets/screenshot_32.png)][8]
 
 #### PeerTube
 
-PeerTube est un projet français de plateforme de partage de vidéo libre, open-source et décentralisée créée par [Chocobozzz](<>) et financé principalement par [Framasoft](<>). Le principe est simple : créer un écosystème décentralisé constitué de plusieurs plateformes qui peuvent s’allier. PeerTube n’est pas une seule plateforme d’hébergement vidéo avec un unique groupe de règles : c’est un réseau de dizaines d’hébergeurs interconnectés, et chaque hébergeur est composé de personnes et d’administrateurs différents. Vous n’aimez pas certaines règles ? Vous êtes libre de rejoindre l’hébergeur de votre choix, ou mieux encore, être votre propre hébergeur avec vos propres règles ! En s’alliant avec d’autres instances de PeerTube, les vidéos sont partagées sur les instances alliées et à terme, la redondance pourra même être partagée.
+PeerTube est un projet français de plateforme de partage de vidéo libre, open-source et décentralisée créée par [Chocobozzz](https://github.com/Chocobozzz) et financé principalement par [Framasoft](https://framasoft.org/). Le principe est simple : créer un écosystème décentralisé constitué de plusieurs plateformes qui peuvent s’allier. PeerTube n’est pas une seule plateforme d’hébergement vidéo avec un unique groupe de règles : c’est un réseau de dizaines d’hébergeurs interconnectés, et chaque hébergeur est composé de personnes et d’administrateurs différents. Vous n’aimez pas certaines règles ? Vous êtes libre de rejoindre l’hébergeur de votre choix, ou mieux encore, être votre propre hébergeur avec vos propres règles ! En s’alliant avec d’autres instances de PeerTube, les vidéos sont partagées sur les instances alliées et à terme, la redondance pourra même être partagée.
 
 Suite à un financement participatif lancé entre mars et juillet 2018, Framasoft a pu financer l'emploi du développeur principal de PeerTube. Ainsi, après une version bêta en mars 2018, la version 1 est sortie en novembre 2018. Depuis, plusieurs versions intermédiaires ont apporté de nombreuses fonctionnalités. Plusieurs collectifs ont déjà monté des hébergements PeerTube, créant ainsi les bases de la fédération.
 
@@ -70,13 +70,11 @@ Suite à un financement participatif lancé entre mars et juillet 2018, Framasof
 
 #### TikTok
 
-TikTok est une application mobile de partage de vidéo et de réseautage social lancée en septembre 2016. Elle est développée par l'entreprise chinoise ByteDance. La plateforme permet aux utilisateurs de visionner des clips musicaux, mais également de filmer, monter et partager leurs propres clips. L'utilisateur choisit une chanson, puis se filme par-dessus pendant 60 secondes. L'application comporte de nombreux titres ainsi que de nombreux genres musicaux, dont le hip-hop et la musique électronique. Du fait de son influence, l'application a vu naître plusieurs tendances virales, popularisé plusieurs chansons, et même propulsé des utilisateurs au rang de personnalités sur le Web. Elle est par ailleurs connue pour être populaire auprès des célébrités.
-
-**Le modèle économique de TikTok reste cependant obscure, [bien que des rumeurs affirment](https://futureworktechnologies.com/how-tik-tok-works-business-revenue-model) que leurs revenus annuels s'élèvent à plus d'un million de dollars.**
+TikTok est une application mobile de partage de vidéo et de réseautage social lancée en septembre 2016. Elle est développée par l'entreprise chinoise ByteDance. La plateforme permet aux utilisateurs de visionner des clips musicaux, mais également de filmer, monter et partager leurs propres clips. L'utilisateur choisit une chanson, puis se filme par-dessus pendant 60 secondes. L'application comporte de nombreux titres ainsi que de nombreux genres musicaux, dont le hip-hop et la musique électronique. Du fait de son influence, l'application a vu naître plusieurs tendances virales, popularisé plusieurs chansons, et même propulsé des utilisateurs au rang de personnalités sur le Web. Elle est par ailleurs connue pour être populaire auprès des célébrités. **Le modèle économique de TikTok reste cependant obscure**, [bien que des rumeurs affirment](https://futureworktechnologies.com/how-tik-tok-works-business-revenue-model) que les revenus annuels du réseau social s'élèvent à plus d'un million de dollars.
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/TikTok).
 
-[![screenshot](../assets/screenshot_34.png)][1]
+[![screenshot](../assets/screenshot_34.jpeg)][1]
 
 ### Projets divers
 
