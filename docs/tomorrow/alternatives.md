@@ -12,9 +12,9 @@ Nous avons identifié différents acteurs principaux sur le marché du partage d
 | [Dailymotion](#dailymotion) | Non           | Non         | Publicité                       | Stable  |
 | [View.ly](#viewly)          | Oui           | Oui         | Cryptomonnaie/donations         | Alpha   |
 | [D.Tube](#dtube)            | Oui           | Oui         | Cryptomonnaie/donations         | Bêta    |
-| [PopChest](#popchest)       | Oui           | Oui         | Cryptomonnaie/donations         | Bêta    |
+| [Pop Network](#pop-network) | Oui           | Oui         | Cryptomonnaie/donations         | -       |
 | [PeerTube](#peertube)       | Oui           | Oui         | Aucune                          | Stable  |
-| [TikTok](#tiktok)           | Non           | Non         | ?                               | Stable  |
+| [TikTok](#tiktok)           | Non           | Non         | -                               | Stable  |
 
 * * *
 
@@ -54,9 +54,9 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 [![screenshot](../assets/screenshot_27.png)][7]
 
-#### PopChest
+#### Pop Network
 
-...
+Pop Network est un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. Son ambition est de créer un écosystème de plateformes basé sur BitTorrent, un protocol de partage de fichier décentralisé, et de la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés.
 
 [![screenshot](../assets/screenshot_32.png)][8]
 
@@ -71,6 +71,8 @@ Suite à un financement participatif lancé entre mars et juillet 2018, Framasof
 #### TikTok
 
 TikTok est une application mobile de partage de vidéo et de réseautage social lancée en septembre 2016. Elle est développée par l'entreprise chinoise ByteDance. La plateforme permet aux utilisateurs de visionner des clips musicaux, mais également de filmer, monter et partager leurs propres clips. L'utilisateur choisit une chanson, puis se filme par-dessus pendant 60 secondes. L'application comporte de nombreux titres ainsi que de nombreux genres musicaux, dont le hip-hop et la musique électronique. Du fait de son influence, l'application a vu naître plusieurs tendances virales, popularisé plusieurs chansons, et même propulsé des utilisateurs au rang de personnalités sur le Web. Elle est par ailleurs connue pour être populaire auprès des célébrités.
+
+**Le modèle économique de TikTok reste cependant obscure, [bien que des rumeurs affirment](https://futureworktechnologies.com/how-tik-tok-works-business-revenue-model) que leurs revenus annuels s'élèvent à plus d'un million de dollars.**
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/TikTok).
 
