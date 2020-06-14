@@ -12,7 +12,7 @@ Nous avons identifié différents acteurs principaux sur le marché du partage d
 | [Dailymotion](#dailymotion) | Non           | Non         | Publicité                       | Stable        |
 | [View.ly](#viewly)          | Oui           | Oui         | Cryptomonnaie/donations         | Alpha         |
 | [D.Tube](#dtube)            | Oui           | Oui         | Cryptomonnaie/donations         | Bêta          |
-| [Pop Network](#pop-network) | Oui           | Oui         | Cryptomonnaie/donations         | Développement |
+| [Pop Network](#pop-network) | Oui           | Oui         | Cryptomonnaie                   | Développement |
 | [PeerTube](#peertube)       | Oui           | Oui         | Aucune                          | Stable        |
 | [TikTok](#tiktok)           | Non           | Non         | -                               | Stable        |
 
@@ -44,7 +44,7 @@ En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Dailymotio
 
 #### View.ly
 
-View.ly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût de la charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai, c'est une source supplémentaire pour la diffusion de vidéos.
+View.ly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût de la charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai est une source supplémentaire pour la diffusion de vidéos. On appelle aussi ce système la fédération.
 
 [![screenshot](../assets/screenshot_28.png)][6]
 
