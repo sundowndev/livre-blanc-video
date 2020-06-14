@@ -4,23 +4,23 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. D'abord p
 
 Nous avons identifié différents acteurs principaux sur le marché du partage de vidéos, en voici une liste non-exhaustive :
 
-| Plateforme                  | Décentralisée | Open source | Source(s) de revenu             | Version |
-| --------------------------- | ------------- | ----------- | ------------------------------- | ------- |
-| [YouTube][2]                | Non           | Non         | Publicité/abonnements           | Stable  |
-| [Twitch](#twitch)           | Non           | Non         | Publicité/abonnements/donations | Stable  |
-| [Vimeo](#vimeo)             | Non           | Non         | Publicité/abonnements           | Stable  |
-| [Dailymotion](#dailymotion) | Non           | Non         | Publicité                       | Stable  |
-| [View.ly](#viewly)          | Oui           | Oui         | Cryptomonnaie/donations         | Alpha   |
-| [D.Tube](#dtube)            | Oui           | Oui         | Cryptomonnaie/donations         | Bêta    |
-| [Pop Network](#pop-network) | Oui           | Oui         | Cryptomonnaie/donations         | -       |
-| [PeerTube](#peertube)       | Oui           | Oui         | Aucune                          | Stable  |
-| [TikTok](#tiktok)           | Non           | Non         | -                               | Stable  |
+| Plateforme                  | Décentralisée | Open source | Source(s) de revenu             | Version       |
+| --------------------------- | ------------- | ----------- | ------------------------------- | ------------- |
+| [YouTube][2]                | Non           | Non         | Publicité/abonnements           | Stable        |
+| [Twitch](#twitch)           | Non           | Non         | Publicité/abonnements/donations | Stable        |
+| [Vimeo](#vimeo)             | Non           | Non         | Publicité/abonnements           | Stable        |
+| [Dailymotion](#dailymotion) | Non           | Non         | Publicité                       | Stable        |
+| [View.ly](#viewly)          | Oui           | Oui         | Cryptomonnaie/donations         | Alpha         |
+| [D.Tube](#dtube)            | Oui           | Oui         | Cryptomonnaie/donations         | Bêta          |
+| [Pop Network](#pop-network) | Oui           | Oui         | Cryptomonnaie/donations         | Développement |
+| [PeerTube](#peertube)       | Oui           | Oui         | Aucune                          | Stable        |
+| [TikTok](#tiktok)           | Non           | Non         | -                               | Stable        |
 
 * * *
 
 #### Twitch
 
-Lancée en juin 2011, Twitch est un service de streaming vidéo en direct et de VOD. Le site se concentre principalement sur la diffusion en direct de jeux vidéo, y compris les diffusions de compétitions d'esport, mais il se diversifie à la fin des années 2010 (contenus musicaux, de discussion, etc.) notamment avec la démocratisation de la libre antenne. Il s'agit d'une des plateformes les plus populaires pour diffuser de la vidéo en direct, en particulier quand il s'agit de jeux vidéo.
+Lancée en juin 2011, Twitch est un service de streaming vidéo en direct et de VOD. Le site se concentre principalement sur la diffusion en direct de jeux vidéo, y compris les diffusions de compétitions d'esport, mais il se diversifie à la fin des années 2010 (contenus musicaux, de discussion, etc.) notamment avec la démocratisation de la libre antenne. Il s'agit de l'une des plateformes les plus populaires pour diffuser de la vidéo en direct, en particulier quand il s'agit de jeux vidéo.
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Twitch).
 
@@ -56,7 +56,7 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 #### Pop Network
 
-Pop Network est un projet visant à créer un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. L'écosystème est basé sur BitTorrent, un protocol de partage de fichier décentralisé, et sur la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés.
+Pop Network est un projet visant à créer un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. L'écosystème est basé sur BitTorrent, un protocol de partage de fichier décentralisé, et sur la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés. Pop Network n'en est encore qu'au stade de projet, néanmoins des prototypes et une preuve de concept ont été réalisés entre 2018 et 2020.
 
 [![screenshot](../assets/screenshot_32.png)][8]
 
