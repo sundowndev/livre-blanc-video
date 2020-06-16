@@ -36,7 +36,7 @@ Ce partenariat comprend les avantages suivant :
 -   Création d'un magasin pour la vente de vêtements personnalisés
 -   Système de donation des spectateurs via les bits
 
-Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émoticones personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites (forums de discussion, ...). Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo ($8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
+Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émoticones personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites (forums de discussion, ...). Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo (\\\\$8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
 
 ![](../assets/screenshot_36.png)
 _Les détails de l'abonnement [Twitch Turbo](https://www.twitch.tv/turbo)_
@@ -55,12 +55,56 @@ L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs m
 
 ### Le financement participatif
 
-> utip, tipeee, ulule, ...
+Lorsque le modèle publicitaire n'est plus rentable, les créateurs se tournent vers les spectateurs pour monétiser leur contenu. Depuis plusieurs années déjà, il est devenu très courant pour un vidéaste d'adopter le financement participatif pour financer ses vidéos. Certains l'ont adopté comme source de revenue secondaire, un plan B, d'autres ont opté pour un modèle économique totalement indépendant.
+
+Voici une liste non exhaustive des plateformes européennes de financement participatif existantes :
+
+-   [Utip](https://www.utip.io/)
+-   [Tipeee](https://tipeee.com)
+-   [Ulule](https://ulule.com/)
+-   [KissKissBankBank](https://www.kisskissbankbank.com/)
+
+> Certains indicateurs avancés permettent de mieux comprendre les dynamiques du crowdfunding. Par exemple le montant moyen des soutiens (45 € sur Ulule) a baissé par rapport au lancement d'Ulule : c'est le signe que le crowdfunding se popularise, avec plus de contributeurs en moyenne par projet ! [Statistiques d'Ulule][4]
+
+Notre enquête montre que même sur YouTube, qui a longtemps utilisé le modèle publicitaire comme source de revenue principale, voit sa communauté opter de plus pour l'abonnement payant.
 
 ![](../assets/study_14.png)
+
 ![](../assets/study_15.png)
 
-...
+Sous forme de donation unique ou d'abonnement mensuel, les spectateurs sont libres de choisir la hauteur du montant qu'ils souhaitent investir, parfois en échange d'une contrepartie pour les remercier.
+
+[![](../assets/screenshot_37.png)](https://en.tipeee.com/e-penser)
+
+_Profil Tipeee de e-penser_
+
+[![](../assets/screenshot_42.png)](https://www.utip.io/stupideconomics)
+
+_Profil Utip de Stupid Economics_
+
+#### Statistiques
+
+Tipeee propose également des statistiques publiques sur l'évolution de ce modèle économique et son appréciation par les fans. Ici nous pouvons voir que pour les abonnements mensuels, le montant moyen est de 6,79€, pour une durée d'abonnement moyenne de 9 mois.
+
+![](../assets/screenshot_41.png)
+
+Voici d'autres statistiques générales sur ces plateformes :
+
+##### Tipeee
+
+![](../assets/screenshot_38.png)
+
+##### Utip
+
+![](../assets/screenshot_40.png)
+
+##### KissKissBankBank
+
+![](../assets/screenshot_43.png)
+
+##### Ulule
+
+![](../assets/screenshot_44.png)
 
 * * *
 
@@ -68,7 +112,19 @@ L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs m
 
 -   [Offres payantes de Vimeo][1]
 -   [What is the Business Model for a Twitch Streamer?][2]
+-   [Statistiques Tipeee][3]
+-   [Statistiques d'Ulule][4]
+-   [Site web de Utip][5]
+-   [Statistiques de KissKissBankBank][6]
 
 [1]: https://vimeo.com/upgrade
 
 [2]: https://medium.com/precoil/what-is-the-business-model-for-a-twitch-streamer-f3b9e5351666
+
+[3]: https://fr.tipeee.com/stats
+
+[4]: https://fr.ulule.com/stats/
+
+[5]: https://utip.io/
+
+[6]: https://www.kisskissbankbank.com/fr/stats
