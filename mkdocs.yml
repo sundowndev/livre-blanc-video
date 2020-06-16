@@ -31,7 +31,7 @@ nav:
     - "Les alternatives": tomorrow/alternatives.md
     - "Modèle économique": tomorrow/business-model.md
     - "En communauté": tomorrow/community.md
-    - "Écologie": tomorrow/ecology.md
+    # - "Écologie": tomorrow/ecology.md
     # - "Opportunités": tomorrow/notfound.md
     - "Transparence, vie privée & éthique": tomorrow/transparency.md
 
