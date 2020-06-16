@@ -1,4 +1,4 @@
-Ce livre blanc est sous licence **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+Ce livre blanc est sous licence **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
 Les outils juridiques de Creative Commons offrent à tous, des créateurs individuels aux grandes entreprises, un moyen simple et standardisé d'accorder des autorisations de droits d'auteur à leurs œuvres créatives. Ils sont conçus pour établir un équilibre à l'intérieur du cadre traditionnel de "tous les droits réservés" créé par la loi sur le droit d'auteur.
 
