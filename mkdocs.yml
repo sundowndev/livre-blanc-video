@@ -21,6 +21,7 @@ nav:
   - "Introduction":
     - "Résumé": index.md
     - "Contribuer": contribute.md
+    - "Licence": license.md
   - "Le partage de vidéo, aujourd'hui":
     - "Modèle économique": today/business-model.md
     - "En communauté": today/community.md
