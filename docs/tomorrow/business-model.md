@@ -45,13 +45,31 @@ L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs m
 
 ### La cryptomonnaie, une alternative viable ?
 
-> dtube, popchest, viewly
+<!-- > dtube, popchest, viewly -->
+
+> Une cryptomonnaie est une monnaie émise de pair à pair, sans nécessité de banque centrale, utilisable au moyen d'un réseau informatique décentralisé. Elle utilise les principes de la cryptographie et associe l'utilisateur aux processus d'émission et de règlement des transactions. [En savoir plus sur Wikipédia](https://fr.wikipedia.org/wiki/Cryptomonnaie)
+
+L'une des premières plateformes à avoir basé son modèle économique sur la cryptomonnaie est [D.Tube][7]. Une plateforme de partage de vidéo entièrement décentralisée qui repose sur sa propre cryptomonnaie, **DTC (DTube Coin)**. Mais bien qu'il s'agisse d'un moyen innovant de rémunérer les créateurs, très peu d'internautes savent réellement comment fonctionne cette technologie ni comment l'utiliser.
+
+![](../assets/screenshot_45.png)
+
+Grâce à la technologie Steem, le contenu posté sur D.Tube est systématiquement enregistré dans la blockchain ce qui à terme permet de générer de la cryptomonnaie. Steem est une sorte de "blockchain sociale" qui développe des communautés et permet aux utilisateurs de générer des revenus immédiats en les récompensant pour le partage de contenu.
+
+> Parce que nous voulons que D.Tube soit vraiment décentralisé, nous ne pouvons pas avoir un serveur qui gère une base de données et l'utiliser pour faire des requêtes. L'utilisation de la blockchain **Avalon** est une solution naturelle. Elle est rapide, elle est gratuite, tout le monde peut l'utiliser sans avoir à payer quoique ce soit et les transactions sont gratuites. Qui voudrait payer pour ajouter une vidéo, commenter une vidéo ou même voter ? Personne.
+
+> Toute vidéo téléchargée sur D.Tube devient un contenu **Avalon**, qui peut gagner des récompenses ; vous pouvez également poster votre contenu sur la blockchain **Steem** et **Hive** et bénéficier des fonctionnalités de D.Tube.
+
+Malgré une adoption grandissante de ce modèle économique par de nouvelles plateformes, de nombreux internautes restent septiques voire réticents face à ces technologies. D'autres ne savent tout simplement pas comment cela fonctionne.
 
 ![](../assets/study_16.png)
+
 ![](../assets/study_18.png)
+
+La majorité des internautes ayant expérimenté une de ces plateformes ressortent tout de même avec une expérience satisfaisante.
+
 ![](../assets/study_17.png)
 
-...
+Néanmoins l'avis général des internautes sur la question du rôle de la cryptomonnaie reste encore mitigé, principalement car il s'agit d'une technologie encore expérimentale et qui n'a pas encore fait ses preuves dans le milieu du divertissement. Ce modèle économique se présente donc comme une alternative expérimentale mais inadaptée au grand public et aux créateurs habitués à profiter de la stabilité du système bancaire traditionel.
 
 ### Le financement participatif
 
@@ -116,6 +134,7 @@ Voici d'autres statistiques générales sur ces plateformes :
 -   [Statistiques d'Ulule][4]
 -   [Site web de Utip][5]
 -   [Statistiques de KissKissBankBank][6]
+-   [Présentation du projet D.Tube][7]
 
 [1]: https://vimeo.com/upgrade
 
@@ -128,3 +147,5 @@ Voici d'autres statistiques générales sur ces plateformes :
 [5]: https://utip.io/
 
 [6]: https://www.kisskissbankbank.com/fr/stats
+
+[7]: https://about.d.tube/
