@@ -150,4 +150,5 @@ Voici d'autres statistiques générales sur ces plateformes :
 [6]: https://www.kisskissbankbank.com/fr/stats
 
 [7]: https://about.d.tube/
-[8]:https://steem.com/
+
+[8]: https://steem.com/
