@@ -6,15 +6,15 @@ Il existe six licences Creative Commons différentes, ainsi qu'un outil de dédi
 
 Cette licence indique que vous **pouvez** :
 
-- Partager - copier et redistribuer la source sur tout support ou format
-- Adapter - remixer, transformer et exploiter la source
+-   Partager - copier et redistribuer la source sur tout support ou format
+-   Adapter - remixer, transformer et exploiter la source
 
 Le titulaire de la licence ne peut pas révoquer ces libertés tant que vous respectez les conditions de la licence.
 
 L'exploitation de la source doit se faire en respectant les conditions suivantes :
 
-- Le crédit doit être accordé au créateur, [Raphaël Cerveaux](https://crvx.fr/)
-- Seule l'utilisation non commerciale de ce travail est autorisée
-- Les adaptations doivent être partagées dans les mêmes conditions
+-   Le crédit doit être accordé au créateur, [Raphaël Cerveaux](https://crvx.fr/)
+-   Seule l'utilisation non commerciale de ce travail est autorisée
+-   Les adaptations doivent être partagées dans les mêmes conditions
 
-Pour voir une copie de cette licence, visitez [https://creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+Pour voir une copie de cette licence, visitez <https://creativecommons.org/licenses/by-nc-sa/4.0>.
