@@ -135,6 +135,7 @@ Voici d'autres statistiques générales sur ces plateformes :
 -   [Site web de Utip][5]
 -   [Statistiques de KissKissBankBank][6]
 -   [Présentation du projet D.Tube][7]
+-   [Présentation de Steem][8]
 
 [1]: https://vimeo.com/upgrade
 
@@ -149,3 +150,5 @@ Voici d'autres statistiques générales sur ces plateformes :
 [6]: https://www.kisskissbankbank.com/fr/stats
 
 [7]: https://about.d.tube/
+
+[8]: https://steem.com/
