@@ -12,7 +12,6 @@ Peut-on lire sur le rapport d'[application du règlement de la communauté YouTu
 
 Ce graphique indique le nombre de vidéos supprimées par YouTube en fonction de la source de détection initiale (signalement automatique ou détection manuelle). Les signalements par détection manuelle peuvent provenir d'un utilisateur ou d'un membre du programme [Trusted Flagger](https://support.google.com/youtube/answer/7554338) de YouTube. Un programme composé d'individus, d'ONG et d'autorités administratives qui informent YouTube des cas de contenus enfreignant le règlement de la communauté.
 
-
 > YouTube est une communauté et, au fil des ans, les internautes ont utilisé la fonctionnalité de signalement située sous chaque vidéo et chaque commentaire pour signaler le contenu qui, selon eux, enfreint le règlement de la communauté. Nous souhaitons permettre à la communauté YouTube de comprendre comment fonctionne le signalement et de contribuer au respect du règlement de la communauté.
 
 Cependant ce que YouTube ne dévoile pas, c'est le fonctionnement de la détection automatique, vraisemblablement responsable de la majorité de la suppression de contenu. **Parmis plus de 5,8 milliards de vidéos supprimées entre Octobre et Décembre 2019, 5,3 milliards l'ont été par la détection automatique**, soit environ 90%.
@@ -49,15 +48,19 @@ Bien qu'il n'ait pas attiré beaucoup d'attention à l'époque, il est très per
 [2]: https://medium.com/swlh/the-youtube-p-score-is-it-the-end-of-real-viral-videos-45f0f73ec247
 
 [2_archive]: https://medium.com/swlh/the-youtube-p-score-is-it-the-end-of-real-viral-videos-45f0f73ec247
-[3]:https://transparencyreport.google.com/youtube-policy/removals
 
-[3_archive]:https://transparencyreport.google.com/youtube-policy/removals
+[3]: https://transparencyreport.google.com/youtube-policy/removals
+
+[3_archive]: https://transparencyreport.google.com/youtube-policy/removals
 
 [4]: https://www.shopify.com/blog/youtube-algorithm
+
 [4_archive]: https://www.shopify.com/blog/youtube-algorithm
 
-[5]:https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
-[5_archive]:https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+[5]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 
-[6]:https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
-[6_archive]:https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
+[5_archive]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+
+[6]: https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
+
+[6_archive]: https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
