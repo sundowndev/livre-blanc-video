@@ -20,7 +20,7 @@ Mais la publicité représente-t-elle encore aujourd'hui l'unique moyen fiable d
 
 * * *
 
-### Ressources
+## Ressources
 
 -   [YouTube affirme qu'il peut supprimer des comptes sur sa plateforme qui ne sont pas « viables commercialement »][1] \[[archive][1_archive]]
 -   [Résultats de notre étude sur le partage de vidéo][2]

@@ -2,7 +2,7 @@
 
 * * *
 
-### Ressources
+## Ressources
 
 -   [TikTok, une application de partage de vidéos courtes, est accusée d'avoir secrètement recueilli des données d'utilisateurs][1] \[[archive][1_archive]]
 -   [La société détentrice de TikTok poursuivie en justice pour avoir prétendument collecté des données sur ses utilisateurs âgés de moins de 13 ans][2] \[[archive][2_archive]]

@@ -47,9 +47,11 @@ Notre étude à permis de constater que la consommation de vidéo en ligne prend
 
 ![](../assets/study_1.png)
 
-Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (_Japan Expo, Paris Games Week, Toulouse Game Show..._), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
+Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (_Japan Expo, Paris Games Week, Toulouse Game Show, Video City Paris..._), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
 
-Aux États-Unis à lieu notamment chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel les vidéastes peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands ou conférences.
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">De super moments a la <a href="https://twitter.com/VideoCityParis?ref_src=twsrc%5Etfw">@VideoCityParis</a> 😊<br>C’etait cool de prendre le temps de bien discuter avec vous tous qui étiez la 👍👍👍</p>&mdash; Steven Lathoud (@73steven) <a href="https://twitter.com/73steven/status/851153878938783744?ref_src=twsrc%5Etfw">April 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Aux États-Unis notamment, a lieu chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel ces derniers peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands et conférences.
 
 ![](../assets/vidcon_1.jpeg)
 _Crédit photo: [Kongres Magazine](https://kongres-magazine.eu/2018/02/vidcon-worlds-largest-online-video-conference-set-return-melbourne/)_
@@ -123,6 +125,8 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet notamment de modérer les commentaires que le créateur reçoit, de les filtrer par ancienneté ou par type. Il est aussi possible de déléguer la modération des commentaires à d'autres utilisateurs pour qu'ils puissent s'en occuper à votre place. La section commentaire peut être désactivée sur des vidéos précises, choisies au préalable par le créateur.
 
 ![](../assets/screenshot_12.gif)
+
+* * *
 
 ## Ressources
 
