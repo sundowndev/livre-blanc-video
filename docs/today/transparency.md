@@ -79,7 +79,7 @@ Dans une vidéo publiée mercredi 31 août et consultée plus de 3 millions de f
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gbph5or0NuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> YouTube retire la publicité sur « les sujets et événements controversés, ce qui inclut des sujets relatifs à la guerre, aux conflits politiques, aux catastrophes naturelles et tragédies, même si aucune image explicite n’est montrée ». [...] Des domaines extrêmement vastes et, surtout, soumis à interprétation. YouTube n’a pas précisé, dans les messages envoyés aux youtubeurs, la raison exacte qui, à chaque fois, l’a poussé à démonétiser la vidéo. Concernant Philip DeFranco, parmi les douze vidéos concernées, certaines évoquaient par exemple la sortie de prison d’un violeur ou encore un récent accrochage du chanteur Chris Brown avec la police.
+> YouTube retire la publicité sur « les sujets et événements controversés, ce qui inclut des sujets relatifs à la guerre, aux conflits politiques, aux catastrophes naturelles et tragédies, même si aucune image explicite n’est montrée ». \[...] Des domaines extrêmement vastes et, surtout, soumis à interprétation. YouTube n’a pas précisé, dans les messages envoyés aux youtubeurs, la raison exacte qui, à chaque fois, l’a poussé à démonétiser la vidéo. Concernant Philip DeFranco, parmi les douze vidéos concernées, certaines évoquaient par exemple la sortie de prison d’un violeur ou encore un récent accrochage du chanteur Chris Brown avec la police.
 
 La démonétisation concernerait donc les sujets abordés, et non la prise de position des vidéastes sur ceux-ci. Cela contribue à rendre les règles ambigues et désavantageuses pour les créateurs voulant aborder des sujets sensibles mais importants, comme par exemple des passages de l'histoire. De ce fait, YouTube n'est pas seulement un endroit où le contenu est tout public mais surtout un endroit où le contenu ne présente aucun contenu sensible ou controversé.
 
@@ -99,7 +99,7 @@ Dans une vidéo publiée en Août 2019, le vidéaste Mastu indique qu'une de ces
 
 Le créateur se voit donc contraint d'utiliser sa notoriété pour obtenir de l'aide de la part de la plateforme. Malgré une documentation détaillée sur l'algorithme de détection automatique, il n'est pas possible de savoir comment celui-ci fonctionne réellement, ni de savoir les raisons qui se cachent derrière les décisions de démonétisation.
 
-> Et pourtant, YouTube n’a rien changé, ces derniers jours, à sa politique de monétisation des contenus. [...] Néanmoins, elle [la société YouTube] a expliqué avoir modifié la façon dont elle informait les youtubeurs de cette démonétisation. Alors qu’auparavant, l’entreprise désactivait les publicités sans les prévenir, elle a récemment décidé de leur envoyer un courriel.
+> Et pourtant, YouTube n’a rien changé, ces derniers jours, à sa politique de monétisation des contenus. \[...] Néanmoins, elle \[la société YouTube] a expliqué avoir modifié la façon dont elle informait les youtubeurs de cette démonétisation. Alors qu’auparavant, l’entreprise désactivait les publicités sans les prévenir, elle a récemment décidé de leur envoyer un courriel.
 
 * * *
 
