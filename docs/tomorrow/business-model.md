@@ -36,7 +36,7 @@ Ce partenariat comprend les avantages suivant :
 -   Création d'un magasin pour la vente de vêtements personnalisés
 -   Système de donation des spectateurs via les bits
 
-Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émoticones personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites (forums de discussion, ...). Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo (\\\\$8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
+Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émoticones personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites (forums de discussion, ...). Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo ($8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
 
 ![](../assets/screenshot_36.png)
 _Les détails de l'abonnement [Twitch Turbo](https://www.twitch.tv/turbo)_
@@ -44,8 +44,6 @@ _Les détails de l'abonnement [Twitch Turbo](https://www.twitch.tv/turbo)_
 L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs mais aussi sur celui des créateurs, qui peuvent payer pour obtenir des fonctionnalités supplémentaires et fidéliser leur communauté.
 
 ### La cryptomonnaie, une alternative viable ?
-
-<!-- > dtube, popchest, viewly -->
 
 > Une cryptomonnaie est une monnaie émise de pair à pair, sans nécessité de banque centrale, utilisable au moyen d'un réseau informatique décentralisé. Elle utilise les principes de la cryptographie et associe l'utilisateur aux processus d'émission et de règlement des transactions. [En savoir plus sur Wikipédia](https://fr.wikipedia.org/wiki/Cryptomonnaie)
 
