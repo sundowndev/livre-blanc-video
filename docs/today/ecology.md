@@ -64,6 +64,8 @@ Les chercheurs à l’origine de l’étude affirment également que YouTube cac
 
 D'autres facteurs techniques participent à rendre l'impact écologique de YouTube important, notamment la publicité, les scripts de traçage utilisateur, qui consomment beaucoup de bande passante. Enfin, les chercheurs suggèrent qu'une conception davantage orientée vers l'éco-responsabilité permettrait de réduire l'impact écologique des applications web. Avec des pages web plus légères, moins d'informations envoyées inutilement, et moins de collecte de données.
 
+* * *
+
 ## Ressources
 
 -   [Réduire son empreinte écologique sur Youtube][1] \[[archive][1_archive]]

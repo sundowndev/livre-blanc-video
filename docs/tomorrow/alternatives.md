@@ -88,7 +88,7 @@ Une autre particuliarité de l'application est quelle permet de jongler entre di
 
 * * *
 
-### Ressources
+## Ressources
 
 -   [NewPipe, un client YouTube open source et intuitif pour Android][1]
 -   [Twitch, plateforme de diffusion en direct][3]

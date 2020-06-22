@@ -126,7 +126,7 @@ Voici d'autres statistiques générales sur ces plateformes :
 
 * * *
 
-### Ressources
+## Ressources
 
 -   [Offres payantes de Vimeo][1]
 -   [What is the Business Model for a Twitch Streamer?][2]
