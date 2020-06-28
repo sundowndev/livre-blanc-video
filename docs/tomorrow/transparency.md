@@ -2,7 +2,11 @@ Parmis les alternatives présentées, certaines semblent être le fruit de proje
 
 ## Code en source ouverte
 
-Une des initiatives les plus pertinente en matière de transparence est d'ouvrir le code source de son application au public. L'open source (source ouverte en anglais) est depuis des dizaines d'années un moyen efficace de garantir une transparence et une sécurité à toute épreuve envers les utilisateurs d'applications. Quels que soient les algorithmes utilisés, si tout le monde peut les examiner et les comprendre, il devient alors plus facile pour une société de préserver la confiance de ses utilisateurs. Cela permet également aux projets d'obtenir des contributions venant de développeurs extérieurs.
+Une des initiatives les plus pertinentes en matière de transparence est d'ouvrir le code source de son application au public. L'[open source](https://fr.wikipedia.org/wiki/Open_source) (source ouverte en anglais) est depuis des dizaines d'années un moyen efficace de garantir une transparence et une sécurité à toute épreuve pour les utilisateurs d'applications. Quels que soient les algorithmes utilisés, si tout le monde peut les examiner et les comprendre, il devient alors plus facile pour une société de préserver la confiance de ses utilisateurs. Cela permet également aux projets d'obtenir des contributions venant de développeurs externes.
+
+> Le mouvement open source s'est développé en parallèle du mouvement du logiciel libre qui prône des valeurs philosophiques et politiques de justice, l'open source se focalisant sur des considérations techniques de développement logiciel et ne s'opposant pas à l'utilisation de systèmes intégrés combinant logiciels propriétaires et logiciels open source.
+
+Peut-on lire sur la [page Wikipédia](https://fr.wikipedia.org/wiki/Open_source) dédiée à l'open source.
 
 ![screenshot](../assets/screenshot_53.png)
 
@@ -12,11 +16,11 @@ Une des initiatives les plus pertinente en matière de transparence est d'ouvrir
 
 > L’ambition de **PeerTube**, c'est d’être une alternative libre et décentralisée  aux services de diffusion de vidéos. Le but n’est pas de remplacer, mais de proposer quelque chose d’autre, avec des valeurs différentes, en parallèle de ce qui existe déjà.
 
-Néanmoins il n'existe que très peu de sociétés qui peuvent prétendre être entièrement open-source, ce mode de transparence étant incompatible avec leur modèle économique. Ces sociétés ne peuvent pas se permettre de laisser les concurrents voir au travers la société comme au travers d'une vitre. Et si YouTube était devenu beaucoup trop gros pour être open-source ?
+Néanmoins il n'existe que très peu de sociétés qui peuvent prétendre être entièrement open-source, ce mode de transparence étant souvent incompatible avec leur modèle économique. Ces sociétés ne peuvent pas se permettre de laisser les concurrents voir à travers la société comme à travers une vitre, au risque de mettre leur business en danger. Et si YouTube était devenu beaucoup trop géant pour être open-source ?
 
 > PeerTube n’est pas pensé pour créer une énorme plateforme centralisant les vidéos du monde entier. Il s’agit plutôt d'un réseau de nombreux petits hébergeurs de vidéos, connectés les uns aux autres. \[...] PeerTube n’est soumis au monopole d’aucune entreprise, ne dépend d’aucune publicité et ne vous piste pas.
 
-Il y a donc vraisemblablement un gap entre ces alternatives qui veulent changer la façon dont nous consommons du contenu, et ces sociétés qui doivent impérativement générer du profit.
+Il y a donc vraisemblablement un gap entre ces alternatives qui veulent changer la façon dont nous consommons du contenu au quotidien, et ces sociétés créées exclusivement pour générer du profit.
 
 [![screenshot](../assets/screenshot_52.png)][4]
 
@@ -24,11 +28,11 @@ Il y a donc vraisemblablement un gap entre ces alternatives qui veulent changer 
 >
 > [Article publié sur TheGuardian][4]
 
-Le but premier d'une société est de faire du profit, de ce fait, il est primordial pour celle-ci de protéger et préserver sa source de revenus. Cela peut se traduire par un manque de transparence qui peut, en définitive, nuire à la société. Une entreprise est soumise à la juridiction du pays dans lequel elle est basée. De ce fait, être basé dans un pays qui exerce une pression sur ses entreprises qu'il accueille peut placer ces sociétés dans des situations délicates, notamment au milieu de conflits géopolitiques.
+Le but premier d'une société est de faire du profit, de ce fait, il est primordial pour celle-ci de protéger et préserver sa source de revenus. Cela peut se traduire par un manque de transparence qui peut, en définitive, nuire à la société. Une entreprise est soumise à la juridiction du pays dans lequel elle est basée. De ce fait, être basé dans un pays qui exerce une pression sur ses entreprises qu'il accueille peut placer ces sociétés dans des situations délicates, notamment au centre de conflits géopolitiques.
 
 ## Décentralisation
 
-Le principe de la décentralisation repose sur la possibilité pour les utilisateurs de contribuer directement au projet. Dans ce contexte précis, décentraliser le stockage de vidéos permet d'éviter de dépenser des énormes sommes dans des serveurs et de profiter de l'écosystème du projet. Mais un autre avantage de taille qu'offre ce type de fonctionnement c'est la possibilité pour les créateurs de retrouver leurs vidéos quoiqu'il arrive et de les rendre accessible sur une autre plateforme en cas de problème. Cela leur donne une liberté inégalée et ne les enferme pas dans un écosystème contrôlé par une seule entité.
+Le principe de la décentralisation repose sur la possibilité pour les utilisateurs de contribuer directement au projet. Dans ce contexte précis, décentraliser le stockage de vidéos permet d'éviter de dépenser des énormes sommes dans des serveurs et de profiter de l'écosystème du projet. Mais un autre avantage de taille qu'offre ce type de fonctionnement c'est la possibilité pour les créateurs de retrouver leurs vidéos quoiqu'il arrive et de les rendre accessibles sur une autre plateforme en cas de problème. Cela leur donne une liberté inégalée et ne les enferme pas dans un écosystème contrôlé par une seule entité, comme nous avons pu le constater avec la plateforme de Google.
 
 Parmis les plateformes que nous avons présentés, nous retrouvons : [PeerTube](../alternatives#peertube), [D.Tube](../alternatives#dtube), ou encore [View.ly](../alternatives#viewly), qui sont basés sur ce concept.
 
