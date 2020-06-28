@@ -10,13 +10,13 @@ Peut-on lire sur la [page Wikipédia](https://fr.wikipedia.org/wiki/Open_source)
 
 ![screenshot](../assets/screenshot_53.png)
 
-*[Organisation GitHub](https://github.com/dtube) de DTube*
+_[Organisation GitHub](https://github.com/dtube) de DTube_
 
 * * *
 
 ![screenshot](../assets/screenshot_54.png)
 
-*[Code source](https://github.com/Chocobozzz/PeerTube) du projet Peertube*
+_[Code source](https://github.com/Chocobozzz/PeerTube) du projet Peertube_
 
 > L’ambition de **PeerTube**, c'est d’être une alternative libre et décentralisée  aux services de diffusion de vidéos. Le but n’est pas de remplacer, mais de proposer quelque chose d’autre, avec des valeurs différentes, en parallèle de ce qui existe déjà.
 
