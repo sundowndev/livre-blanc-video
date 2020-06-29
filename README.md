@@ -3,9 +3,9 @@
 [![Build status](https://img.shields.io/endpoint.svg?url=https://actions-badge.atrox.dev/sundowndev/livre-blanc-video/badge?ref=master)](https://github.com/sundowndev/livre-blanc-video/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sundowndev/livre-blanc-video)](https://goreportcard.com/report/github.com/sundowndev/livre-blanc-video)
 
-Partager en toute liberté, demain. Livre blanc sur le partage de vidéos en ligne, son évolution et les problèmatiques qui émergent peu à peu.
+Partager en toute liberté, demain. Livre blanc sur l'industrie du streaming vidéo, son évolution et les problèmatiques qui émergent peu à peu, notamment en terme de transparence.
 
-## Résumé
+## Introduction
 
 Depuis des dizaines d'années maintenant, Internet a changé notre façon de s'informer, de communiquer, et de partager. Parmis les différents types de contenu, l'audiovisuel a pris une place omniprésente dans notre naviguation quotidienne en ligne. Aujourd'hui grâce aux réseaux sociaux et aux plateforme de partage de contenu, il est devenu très facile de partager des vidéos librement et gratuitement. Les plateformes de partage de vidéos se sont donc multipliées et la création de contenu audiovisuel s'est démocratisée avec un véritable business à la clé, notamment grâce à la publicité. La publicité en ligne a permis de mettre en place un modèle économique universel basé sur la demande des annonceurs et le trafic des sites web. Une visite se traduisant rapidement en Euros, et le trafic quotidien des sites web devenant de plus en plus conséquent, ce modèle économique a pu devenir un des pilliers de la démocratisation d'Internet.
 
