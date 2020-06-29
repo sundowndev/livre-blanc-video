@@ -13,8 +13,8 @@ theme:
   font:
     text: Nunito
     code: Roboto Mono
-  features:
-    - instant
+  # features:
+  #   - instant
 
 nav:
   # - "Résumé": abstract.md
