@@ -24,11 +24,12 @@ jobs:
     - name: Deploy
       run: |
         SSH_DIR="${HOME}/.ssh"
+        GIT_REPO="git@github.com:sundowndev/livre-blanc-video.git"
         mkdir "${SSH_DIR}"
         ssh-keyscan -t rsa github.com > "${SSH_DIR}/known_hosts"
         echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > "${SSH_DIR}/id_rsa"
         chmod 400 "${SSH_DIR}/id_rsa"
-        git remote set-url origin git@github.com:sundowndev/livre-blanc-video.git
+        git remote set-url origin "${GIT_REPO}"
         git config user.name "${{ secrets.GITHUB_USER }}"
         git config user.email "${{ secrets.GITHUB_USER }}@users.noreply.github.com"
         mkdocs gh-deploy
