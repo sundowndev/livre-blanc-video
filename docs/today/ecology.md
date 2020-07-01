@@ -93,18 +93,18 @@ D'autres facteurs techniques participent à rendre l'impact écologique de YouTu
 
 [5]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
 
-[5_archive]: https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
+[5_archive]: https://web.archive.org/web/https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/Google_2018-Environmental-Report.pdf
 
 [6]: https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
 
-[6_archive]: https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
+[6_archive]: https://web.archive.org/web/https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
 
 [7]: https://cloud.google.com/sustainability
 
 [8]: https://www.bristol.ac.uk/news/2019/may/rethinking-digital-service-design-.html
 
-[8_archive]: https://www.bristol.ac.uk/news/2019/may/rethinking-digital-service-design-.html
+[8_archive]: https://web.archive.org/web/https://www.bristol.ac.uk/news/2019/may/rethinking-digital-service-design-.html
 
 [9]: https://www.wired.co.uk/article/youtube-digital-waste-interaction-design
 
-[9_archive]: https://www.wired.co.uk/article/youtube-digital-waste-interaction-design
+[9_archive]: https://web.archive.org/web/https://www.wired.co.uk/article/youtube-digital-waste-interaction-design
