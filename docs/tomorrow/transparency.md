@@ -2,7 +2,7 @@ Parmis les alternatives présentées, nombreuses sont le fruit de projets à but
 
 ## Code en source ouverte
 
-Une des initiatives les plus pertinentes en matière de transparence et de vie privée est d'ouvrir le code source de son application au public. L'[open source](https://fr.wikipedia.org/wiki/Open_source) (source ouverte en anglais) est depuis des dizaines d'années un moyen efficace de garantir une transparence et une sécurité à toute épreuve pour les utilisateurs d'applications. Quels que soient les algorithmes utilisés, si tout le monde peut les examiner et les comprendre, il devient alors plus facile pour une société de préserver la confiance de ses utilisateurs. Cela permet également aux projets d'obtenir des contributions venant de développeurs externes.
+Une des initiatives les plus pertinentes en matière de transparence et de respect de la vie privée est d'ouvrir le code source de son application au public. L'[open source](https://fr.wikipedia.org/wiki/Open_source) (source ouverte en anglais) est depuis des dizaines d'années un moyen efficace de garantir une transparence et une sécurité à toute épreuve pour les utilisateurs d'applications. Quels que soient les algorithmes utilisés, si tout le monde peut les examiner et les comprendre, il devient alors plus facile pour une société de préserver la confiance de ses utilisateurs. Cela permet également aux projets d'obtenir des contributions venant de développeurs externes.
 
 > Le mouvement open source s'est développé en parallèle du mouvement du logiciel libre qui prône des valeurs philosophiques et politiques de justice, l'open source se focalisant sur des considérations techniques de développement logiciel et ne s'opposant pas à l'utilisation de systèmes intégrés combinant logiciels propriétaires et logiciels open source.
 
@@ -64,18 +64,18 @@ Néanmoins, force est de constater que ces choix techniques permettent aux déve
 
 [1]: https://www.developpez.com/actu/286357/TikTok-une-application-de-partage-de-videos-courtes-est-accusee-d-avoir-secretement-recueilli-des-donnees-d-utilisateurs-et-de-les-avoir-envoye-a-la-Chine/
 
-[1_archive]: https://www.developpez.com/actu/286357/TikTok-une-application-de-partage-de-videos-courtes-est-accusee-d-avoir-secretement-recueilli-des-donnees-d-utilisateurs-et-de-les-avoir-envoye-a-la-Chine/
+[1_archive]: https://web.archive.org/web/https://www.developpez.com/actu/286357/TikTok-une-application-de-partage-de-videos-courtes-est-accusee-d-avoir-secretement-recueilli-des-donnees-d-utilisateurs-et-de-les-avoir-envoye-a-la-Chine/
 
 [2]: https://www.developpez.com/actu/286456/La-societe-detentrice-de-TikTok-poursuivie-en-justice-pour-avoir-pretendument-collecte-des-donnees-sur-ses-utilisateurs-ages-de-moins-de-13-ans-sans-le-consentement-de-leurs-parents/
 
-[2_archive]: https://www.developpez.com/actu/286456/La-societe-detentrice-de-TikTok-poursuivie-en-justice-pour-avoir-pretendument-collecte-des-donnees-sur-ses-utilisateurs-ages-de-moins-de-13-ans-sans-le-consentement-de-leurs-parents/
+[2_archive]: https://web.archive.org/web/https://www.developpez.com/actu/286456/La-societe-detentrice-de-TikTok-poursuivie-en-justice-pour-avoir-pretendument-collecte-des-donnees-sur-ses-utilisateurs-ages-de-moins-de-13-ans-sans-le-consentement-de-leurs-parents/
 
 [4]: https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing
 
-[4_archive]: https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing
+[4_archive]: https://web.archive.org/web/https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing
 
 [5]: https://www.theguardian.com/technology/2020/mar/17/tiktok-tried-to-filter-out-videos-from-ugly-poor-or-disabled-users
 
-[5_archive]: https://www.theguardian.com/technology/2020/mar/17/tiktok-tried-to-filter-out-videos-from-ugly-poor-or-disabled-users
+[5_archive]: https://web.archive.org/web/https://www.theguardian.com/technology/2020/mar/17/tiktok-tried-to-filter-out-videos-from-ugly-poor-or-disabled-users
 
 [9]: https://joinpeertube.org/

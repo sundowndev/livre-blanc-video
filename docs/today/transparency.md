@@ -121,19 +121,19 @@ Même si YouTube tend à se montrer plus transparent envers la communauté, sa n
 
 [1]: https://ffwd.medium.com/creators-think-theyve-reverse-engineered-the-p-score-youtube-s-monetization-algorithm-ce64c95a4510
 
-[1_archive]: https://ffwd.medium.com/creators-think-theyve-reverse-engineered-the-p-score-youtube-s-monetization-algorithm-ce64c95a4510
+[1_archive]: https://web.archive.org/web/https://ffwd.medium.com/creators-think-theyve-reverse-engineered-the-p-score-youtube-s-monetization-algorithm-ce64c95a4510
 
 [2]: https://medium.com/swlh/the-youtube-p-score-is-it-the-end-of-real-viral-videos-45f0f73ec247
 
-[2_archive]: https://medium.com/swlh/the-youtube-p-score-is-it-the-end-of-real-viral-videos-45f0f73ec247
+[2_archive]: https://web.archive.org/web/https://medium.com/swlh/the-youtube-p-score-is-it-the-end-of-real-viral-videos-45f0f73ec247
 
 [3]: https://transparencyreport.google.com/youtube-policy/removals
 
-[3_archive]: https://transparencyreport.google.com/youtube-policy/removals
+[3_archive]: https://web.archive.org/web/https://transparencyreport.google.com/youtube-policy/removals
 
 [4]: https://www.shopify.com/blog/youtube-algorithm
 
-[4_archive]: https://www.shopify.com/blog/youtube-algorithm
+[4_archive]: https://web.archive.org/web/https://www.shopify.com/blog/youtube-algorithm
 
 [5]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 
@@ -141,14 +141,14 @@ Même si YouTube tend à se montrer plus transparent envers la communauté, sa n
 
 [6]: https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
 
-[6_archive]: https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
+[6_archive]: https://web.archive.org/web/https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
 
 [7]: https://www.lemonde.fr/pixels/article/2016/09/02/des-videastes-accusent-youtube-de-censure-qui-ne-dit-pas-son-nom_4991794_4408996.html
 
-[7_archive]: https://www.lemonde.fr/pixels/article/2016/09/02/des-videastes-accusent-youtube-de-censure-qui-ne-dit-pas-son-nom_4991794_4408996.html
+[7_archive]: https://web.archive.org/web/https://www.lemonde.fr/pixels/article/2016/09/02/des-videastes-accusent-youtube-de-censure-qui-ne-dit-pas-son-nom_4991794_4408996.html
 
 [8]: https://www.numerama.com/tech/566029-que-ce-sont-ces-notes-p-score-attribuees-par-youtube-a-des-videastes-et-publiees-par-erreur.html
 
-[8_archive]: https://www.numerama.com/tech/566029-que-ce-sont-ces-notes-p-score-attribuees-par-youtube-a-des-videastes-et-publiees-par-erreur.html
+[8_archive]: https://web.archive.org/web/https://www.numerama.com/tech/566029-que-ce-sont-ces-notes-p-score-attribuees-par-youtube-a-des-videastes-et-publiees-par-erreur.html
 
 [9]: https://youtube.com/ads/youtube-select/

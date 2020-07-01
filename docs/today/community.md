@@ -141,23 +141,23 @@ Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. I
 
 [1]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 
-[1_archive]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
+[1_archive]: https://web.archive.org/web/https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 
 [2]: https://start.lesechos.fr/innovations-startups/tech-futur/la-grogne-des-youtubeurs-face-aux-nouvelles-regles-de-monetisation-11623.php
 
-[2_archive]: https://start.lesechos.fr/innovations-startups/tech-futur/la-grogne-des-youtubeurs-face-aux-nouvelles-regles-de-monetisation-11623.php
+[2_archive]: https://web.archive.org/web/https://start.lesechos.fr/innovations-startups/tech-futur/la-grogne-des-youtubeurs-face-aux-nouvelles-regles-de-monetisation-11623.php
 
 [3]: https://www.numerama.com/pop-culture/510021-remuneration-difficile-manque-de-reconnaissance-les-petits-videastes-ont-le-blues-sur-youtube.html
 
-[3_archive]: https://www.numerama.com/pop-culture/510021-remuneration-difficile-manque-de-reconnaissance-les-petits-videastes-ont-le-blues-sur-youtube.html
+[3_archive]: https://web.archive.org/web/https://www.numerama.com/pop-culture/510021-remuneration-difficile-manque-de-reconnaissance-les-petits-videastes-ont-le-blues-sur-youtube.html
 
 [4]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 
-[4_archive]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
+[4_archive]: https://web.archive.org/web/https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/comment-youtubeurs-font-financer-communaute/
 
 [5]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/
 
-[5_archive]: https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/
+[5_archive]: https://web.archive.org/web/https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/amixem-youtube-surtout-plaire-algorithme/
 
 [6]: https://www.youtube.com/watch?v=dZOpobOhOEc
 
@@ -167,8 +167,8 @@ Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. I
 
 [10]: https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
 
-[10_archive]: https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
+[10_archive]: https://web.archive.org/web/https://www.rtbf.be/culture/article/detail_quand-la-censure-de-youtube-va-trop-loin-marion-jaumotte?id=10257454
 
 [11]: https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html
 
-[11_archive]: https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html
+[11_archive]: https://web.archive.org/web/https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html

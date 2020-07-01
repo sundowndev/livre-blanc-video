@@ -121,19 +121,19 @@ Malgré les abus de certaines marques et les conditions de partenariat souvent m
 
 [1]: https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
 
-[1_archive]: https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
+[1_archive]: https://web.archive.org/web/https://www.clubic.com/pro/actualite-e-business/actualite-807308-an-youtube-bouleverse-modele-economique.html
 
 [2]: https://www.wsj.com/articles/viewers-dont-add-up-to-profit-for-youtube-1424897967
 
-[2_archive]: https://www.wsj.com/articles/viewers-dont-add-up-to-profit-for-youtube-1424897967
+[2_archive]: https://web.archive.org/web/https://www.wsj.com/articles/viewers-dont-add-up-to-profit-for-youtube-1424897967
 
 [3]: https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
 
-[3_archive]: https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
+[3_archive]: https://web.archive.org/web/https://www.webmarketing-conseil.fr/les-formats-publicite-youtube/
 
 [4]: https://www.definitions-marketing.com/definition/placement-produit-youtube/
 
-[4_archive]: https://www.definitions-marketing.com/definition/placement-produit-youtube/
+[4_archive]: https://web.archive.org/web/https://www.definitions-marketing.com/definition/placement-produit-youtube/
 
 [7]: https://twitter.com/_Amixem/status/953612321707917312
 
@@ -143,4 +143,4 @@ Malgré les abus de certaines marques et les conditions de partenariat souvent m
 
 [9]: https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
 
-[9_archive]: https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
+[9_archive]: https://web.archive.org/web/https://www.lemonde.fr/pixels/article/2019/12/19/noel-periode-la-plus-importante-pour-les-youtubeurs-et-les-instagrameurs_6023438_4408996.html
